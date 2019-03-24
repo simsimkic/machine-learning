@@ -16,7 +16,7 @@ def gradient_descent(x, y, theta, step_size, iterations, n):
         theta_history.append(theta)
         cost = calculate_cost(theta, x, y, n)
         cost_history.append(cost)
-    
+
     return theta_history, cost_history
 
 def predict(x_data, theta):
@@ -81,7 +81,7 @@ def main():
 
     data = read_file(train_set_path)
     test_data = read_file(test_set_path)
-    
+
     x, y, data_list = remove_outliers(data)
 
     # x = (x - x.mean()) / x.std() # skaliranje(normalizacija) obelezja - mean normalization
@@ -105,12 +105,12 @@ def main():
     print("Gradient Descent: {:.2f}, {:.2f}, {:.2f}, {:.2f}, {:.2f}, {:.2f}".format(theta[0], theta[1], theta[2], theta[3], theta[4], theta[5]))
 
     predicted = predict(test_data['X'], theta)
-    
-    # plot_cost_function(cost_history) 
-   
+
+    # plot_cost_function(cost_history)
+
     # y_test = test_data['Y']
     # y_test = (y_test - min(y_test)) / (max(y_test) - min(y_test))
-    
+
     predicted = (predicted + min(predicted)) * (max(predicted) - min(predicted))
     # print(test_data['Y'])
     # print('----------')
