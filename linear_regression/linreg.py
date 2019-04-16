@@ -2,8 +2,6 @@ import sys
 import numpy as np
 import pandas as pd
 import math
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
 
 def gradient_descent(x, y, theta, step_size, iterations, n):
     theta_history = []
@@ -19,12 +17,15 @@ def gradient_descent(x, y, theta, step_size, iterations, n):
     
     return theta_history, cost_history
 
+def normalEq(x, y):
+    invert = np.linalg.inv(np.dot(x.T, x))
+    return np.dot(invert, np.dot(x.T, y))
+
 def predict(x_data, theta):
     predicted = []
     for x in x_data:
         predicted.append(theta[0] + theta[1]*x + theta[2]*(x**2) + theta[3]*(x**3) + theta[4]*(x**4) + theta[5]*(x**5))
     return predicted
-
 
 def calculate_rmse(y_true, y_predict):
     sum_error = 0.0
@@ -39,20 +40,6 @@ def calculate_cost(theta, x, y, n):
     error = prediction - y
     cost = 1/(2*n) * np.dot(error.T, error)
     return cost
-
-def plot_cost_function(cost_history):
-    plt.title('Cost Function J')
-    plt.xlabel('No. of iterations')
-    plt.ylabel('Cost')
-    plt.plot(cost_history)
-    plt.show()
-
-def plot_data(x, y):
-    plt.title('Data')
-    plt.xlabel('X')
-    plt.ylabel('Y')
-    plt.scatter(x, y)
-    plt.show()
 
 def remove_outliers(data):
     outliers = []
@@ -84,40 +71,23 @@ def main():
     
     x, y, data_list = remove_outliers(data)
 
-    # x = (x - x.mean()) / x.std() # skaliranje(normalizacija) obelezja - mean normalization
-    y = (y - min(y)) / (max(y) - min(y))
-    # y = (y - y.mean()) / y.std()
-
-    # plot_data(test_data['X'], test_data['Y'])
-
     x = np.c_[np.ones(x.shape[0]), x, x ** 2, x ** 3, x ** 4, x ** 5]
 
     step_size = 1
     iterations = 100
-    # step_size = 0.01
-    # iterations = 1000
     n = y.size
     np.random.seed(2)
     theta = np.random.rand(6)
 
-    theta_history, cost_history = gradient_descent(x, y, theta, step_size, iterations, n)
-    theta = theta_history[-1]
-    print("Gradient Descent: {:.2f}, {:.2f}, {:.2f}, {:.2f}, {:.2f}, {:.2f}".format(theta[0], theta[1], theta[2], theta[3], theta[4], theta[5]))
+    # theta_history, cost_history = gradient_descent(x, y, theta, step_size, iterations, n)
+    # theta = theta_history[-1]
+
+    theta = normalEq(x, y)
 
     predicted = predict(test_data['X'], theta)
     
-    # plot_cost_function(cost_history) 
-   
-    # y_test = test_data['Y']
-    # y_test = (y_test - min(y_test)) / (max(y_test) - min(y_test))
-    
-    predicted = (predicted + min(predicted)) * (max(predicted) - min(predicted))
-    # print(test_data['Y'])
-    # print('----------')
-    # print(predicted)
-
     rmse = calculate_rmse(test_data['Y'], predicted)
-    print(rmse)
+    print(rmse) 
 
 if __name__ == "__main__":
     main()
