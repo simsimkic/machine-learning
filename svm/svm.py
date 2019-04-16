@@ -4,7 +4,7 @@ import pandas as pd
 
 
 def preprocessing(data):
-    # convert reviews to uppercase
+    # convert reviews to lowercase
     data = data[['Review']].applymap(lambda x: x.lower()) 
 
     # strip punctuation
@@ -28,7 +28,7 @@ def preprocessing(data):
     # NAPOMENA!!! set ne cuva redosled reci iz liste
     # ukoliko je redosled bitan, promeni set u neku strukturu koja cuva redosled(orderedDict?)
     data = data[['Review']].applymap(lambda x: ' '.join((stopwords ^ set(x.split(' '))) & set(x.split(' '))))
-    
+
     return data
 
 def vectorization():
