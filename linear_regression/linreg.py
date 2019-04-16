@@ -14,7 +14,7 @@ def gradient_descent(x, y, theta, step_size, iterations, n):
         theta_history.append(theta)
         cost = calculate_cost(theta, x, y, n)
         cost_history.append(cost)
-    
+
     return theta_history, cost_history
 
 def normalEq(x, y):
@@ -68,7 +68,7 @@ def main():
 
     data = read_file(train_set_path)
     test_data = read_file(test_set_path)
-    
+
     x, y, data_list = remove_outliers(data)
 
     x = np.c_[np.ones(x.shape[0]), x, x ** 2, x ** 3, x ** 4, x ** 5]
