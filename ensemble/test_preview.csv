@@ -1,0 +1,10 @@
+gender,parental level of education,lunch,test preparation course,math score,reading score,writing score,race
+female,some high school,standard,none,82,86,86,2
+female,bachelor's degree,standard,none,100,100,100,4
+female,associate's degree,standard,none,53,64,61,3
+female,associate's degree,free/reduced,completed,46,59,57,2
+female,some college,free/reduced,completed,68,80,77,2
+male,some college,standard,none,82,78,64,1
+female,some high school,standard,completed,81,88,88,1
+female,some high school,free/reduced,none,41,45,44,4
+male,high school,free/reduced,none,64,60,56,2
