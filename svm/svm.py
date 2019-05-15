@@ -31,7 +31,6 @@ def preprocessing(data):
     'su','sve','svi','svog','svoj','svoja','svoje','svom','ta','tada','taj','tako','te',
     'tebe','tebi','ti','to','toj','tome','tu','tvoj','tvoja','tvoje','u','uz','vam','vama',
     'vas','vas','vasa','vase','vec','vi','vrlo','za','zar','ce','cemo','cete','ces','cu','sta','sto']) 
-
     data[['Review']] = data[['Review']].applymap(lambda x: ' '.join((stopwords ^ set(x.split(' '))) & set(x.split(' '))))
     
     return data
@@ -96,8 +95,7 @@ def main():
     y_pred = evaluate(clf, validation_X)
     y_pred_test = evaluate(clf, test_X)
 
-    print('validation ', accuracy_score(validation_set['Sentiment'], y_pred))
-    print('test ', accuracy_score(test_set['Sentiment'], y_pred_test))
+    print(accuracy_score(test_set['Sentiment'], y_pred_test))
 
 if __name__ == "__main__":
     main()

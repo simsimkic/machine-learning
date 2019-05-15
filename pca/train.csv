@@ -1,0 +1,2401 @@
+year,age,maritl,race,education,jobclass,health_ins,wage
+2007,30,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2008,36,2. Married,1. White,3. Some College,1. Industrial,2. No,97.1582750437
+2009,57,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,128.6804882206
+2008,32,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,276.7784133212
+2009,56,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,129.4536445766
+2003,31,2. Married,1. White,3. Some College,2. Information,1. Yes,108.8745258347
+2009,63,2. Married,1. White,5. Advanced Degree,2. Information,2. No,267.9010868553
+2005,35,2. Married,1. White,3. Some College,2. Information,2. No,97.4932940454
+2009,36,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,148.4131591026
+2003,39,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,109.8339856422
+2009,59,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,81.2832532843
+2007,20,1. Never Married,1. White,3. Some College,1. Industrial,2. No,72.1504556816
+2004,36,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,134.7053751189
+2005,38,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,97.4932940454
+2003,54,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,124.7204462429
+2004,42,2. Married,1. White,4. College Grad,2. Information,1. Yes,103.9024706032
+2009,22,1. Never Married,1. White,2. HS Grad,2. Information,2. No,87.9810327856
+2004,35,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,141.7751723332
+2003,45,3. Widowed,4. Other,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2009,53,2. Married,1. White,4. College Grad,1. Industrial,2. No,104.9215065337
+2006,51,2. Married,1. White,3. Some College,1. Industrial,1. Yes,128.6804882206
+2005,34,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,159.0520271293
+2004,32,2. Married,1. White,2. HS Grad,1. Industrial,2. No,99.6894636985
+2003,55,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,110.7826502763
+2004,56,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2005,27,5. Separated,1. White,1. < HS Grad,1. Industrial,1. Yes,79.8549003093
+2006,43,2. Married,1. White,3. Some College,1. Industrial,1. Yes,127.1157438122
+2004,58,2. Married,1. White,2. HS Grad,2. Information,1. Yes,87.9810327856
+2006,66,2. Married,2. Black,3. Some College,2. Information,1. Yes,118.8843593399
+2003,37,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,85.383940379
+2006,24,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2008,51,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2008,25,1. Never Married,2. Black,2. HS Grad,1. Industrial,2. No,84.045957654
+2003,61,2. Married,1. White,2. HS Grad,2. Information,1. Yes,101.5955382081
+2006,44,4. Divorced,1. White,5. Advanced Degree,2. Information,1. Yes,129.4536445766
+2005,54,2. Married,1. White,3. Some College,2. Information,1. Yes,115.5180851537
+2004,29,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,89.2428846645
+2007,47,5. Separated,2. Black,1. < HS Grad,2. Information,2. No,82.6796372966
+2008,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,157.7005277257
+2003,19,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,68.7480877338
+2007,29,1. Never Married,3. Asian,4. College Grad,1. Industrial,2. No,62.2386812564
+2003,39,4. Divorced,1. White,4. College Grad,2. Information,2. No,87.9810327856
+2005,28,2. Married,1. White,3. Some College,2. Information,1. Yes,102.8702469332
+2005,39,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,160.6424754083
+2007,33,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,99.6894636985
+2008,47,2. Married,1. White,5. Advanced Degree,2. Information,2. No,148.4131591026
+2007,58,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,104.9215065337
+2009,41,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,68.7480877338
+2004,53,2. Married,1. White,3. Some College,2. Information,1. Yes,115.3750385564
+2006,46,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,118.8843593399
+2006,63,2. Married,1. White,2. HS Grad,2. Information,1. Yes,118.8843593399
+2007,57,4. Divorced,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2006,44,2. Married,1. White,2. HS Grad,2. Information,1. Yes,127.1157438122
+2006,41,2. Married,1. White,4. College Grad,2. Information,1. Yes,118.8843593399
+2008,58,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,87.9810327856
+2005,30,1. Never Married,1. White,3. Some College,2. Information,2. No,81.2832532843
+2009,36,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,127.1157438122
+2009,55,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2004,33,2. Married,1. White,4. College Grad,2. Information,2. No,87.9810327856
+2004,49,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,51.7514403709
+2006,41,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,118.8843593399
+2006,18,1. Never Married,1. White,3. Some College,2. Information,2. No,59.0970640816
+2005,24,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,76.8936025176
+2005,34,1. Never Married,2. Black,2. HS Grad,1. Industrial,2. No,94.5960991039
+2006,18,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,73.7757432747
+2003,50,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,143.8085568244
+2003,38,2. Married,1. White,4. College Grad,2. Information,2. No,148.4131591026
+2006,22,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2005,55,2. Married,1. White,4. College Grad,2. Information,1. Yes,118.8843593399
+2003,39,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,123.0896998479
+2003,32,2. Married,1. White,4. College Grad,2. Information,1. Yes,118.8843593399
+2006,29,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,87.9810327856
+2003,41,2. Married,1. White,4. College Grad,2. Information,1. Yes,130.9821773775
+2004,31,5. Separated,1. White,3. Some College,1. Industrial,1. Yes,94.0727147457
+2004,40,2. Married,1. White,3. Some College,1. Industrial,1. Yes,120.5894365304
+2007,36,2. Married,1. White,3. Some College,2. Information,1. Yes,125.5254984338
+2004,52,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,99.6894636985
+2003,40,2. Married,1. White,2. HS Grad,2. Information,1. Yes,112.6488963421
+2004,21,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,84.045957654
+2007,39,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,198.3502904644
+2008,48,4. Divorced,1. White,5. Advanced Degree,2. Information,1. Yes,143.1349408111
+2009,37,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2004,25,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,54.5981500331
+2006,50,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,153.457515309
+2008,26,1. Never Married,1. White,4. College Grad,2. Information,2. No,99.6894636985
+2003,56,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,87.9810327856
+2007,57,4. Divorced,1. White,5. Advanced Degree,1. Industrial,1. Yes,87.9810327856
+2005,26,1. Never Married,3. Asian,4. College Grad,1. Industrial,1. Yes,114.0225803786
+2009,43,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,36.6737041961
+2006,36,2. Married,1. White,4. College Grad,2. Information,1. Yes,89.8800467811
+2004,45,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,154.6852929956
+2004,35,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2003,22,1. Never Married,1. White,3. Some College,2. Information,2. No,81.2832532843
+2005,39,2. Married,1. White,3. Some College,1. Industrial,1. Yes,128.6804882206
+2006,24,1. Never Married,3. Asian,2. HS Grad,1. Industrial,2. No,66.2294082944
+2005,54,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,86.6951548289
+2003,40,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,73.7757432747
+2004,40,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,145.8051633746
+2006,51,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,153.457515309
+2003,54,2. Married,1. White,3. Some College,2. Information,1. Yes,72.4793162971
+2003,34,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,72.1504556816
+2007,49,2. Married,1. White,2. HS Grad,2. Information,1. Yes,94.0727147457
+2004,33,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,101.402052303
+2008,29,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,87.9810327856
+2007,44,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,160.6424754083
+2009,55,5. Separated,1. White,2. HS Grad,1. Industrial,1. Yes,90.4819133566
+2003,52,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,191.5736835484
+2008,56,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,276.7784133212
+2003,35,2. Married,1. White,3. Some College,1. Industrial,1. Yes,116.7071545591
+2009,31,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2007,53,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2005,43,2. Married,1. White,2. HS Grad,2. Information,1. Yes,109.8339856422
+2007,37,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,70.8150386168
+2007,31,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,176.9896504899
+2009,43,2. Married,1. White,1. < HS Grad,2. Information,2. No,126.3238807098
+2006,25,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,99.6894636985
+2006,42,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,85.383940379
+2007,41,4. Divorced,1. White,1. < HS Grad,2. Information,1. Yes,97.4932940454
+2006,54,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,82.6796372966
+2008,31,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,94.0727147457
+2003,58,2. Married,1. White,4. College Grad,2. Information,2. No,32.3664131749
+2008,36,4. Divorced,1. White,2. HS Grad,2. Information,2. No,56.9055391447
+2009,50,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,157.7005277257
+2004,50,2. Married,1. White,2. HS Grad,2. Information,1. Yes,143.1349408111
+2005,45,2. Married,1. White,3. Some College,2. Information,2. No,130.9821773775
+2006,51,2. Married,1. White,3. Some College,2. Information,2. No,99.5919888163
+2006,34,2. Married,1. White,2. HS Grad,2. Information,1. Yes,82.6796372966
+2007,23,2. Married,2. Black,3. Some College,2. Information,2. No,94.0727147457
+2003,62,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,95.6888119067
+2003,26,1. Never Married,2. Black,3. Some College,1. Industrial,2. No,118.8843593399
+2009,48,2. Married,1. White,2. HS Grad,2. Information,1. Yes,102.8702469332
+2006,56,2. Married,1. White,2. HS Grad,2. Information,2. No,86.6951548289
+2009,46,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,143.6997101338
+2004,27,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,114.4757132903
+2008,52,2. Married,1. White,4. College Grad,2. Information,1. Yes,145.1436011769
+2009,33,2. Married,1. White,3. Some College,2. Information,1. Yes,88.2986994723
+2009,25,1. Never Married,1. White,1. < HS Grad,1. Industrial,1. Yes,69.0981838087
+2003,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,128.6804882206
+2004,42,2. Married,1. White,2. HS Grad,1. Industrial,2. No,91.6992261117
+2003,60,4. Divorced,1. White,5. Advanced Degree,1. Industrial,1. Yes,153.457515309
+2007,57,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,160.4097019623
+2005,60,3. Widowed,2. Black,5. Advanced Degree,2. Information,1. Yes,92.8958447895
+2009,40,2. Married,1. White,3. Some College,1. Industrial,1. Yes,97.4932940454
+2006,28,1. Never Married,2. Black,2. HS Grad,1. Industrial,2. No,68.1119940653
+2009,38,2. Married,1. White,4. College Grad,2. Information,1. Yes,145.1436011769
+2009,61,2. Married,1. White,5. Advanced Degree,2. Information,2. No,176.9896504899
+2009,30,2. Married,1. White,3. Some College,1. Industrial,1. Yes,105.9278107751
+2007,25,1. Never Married,4. Other,1. < HS Grad,1. Industrial,2. No,73.7757432747
+2004,54,2. Married,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457
+2004,58,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,118.8843593399
+2004,35,2. Married,1. White,2. HS Grad,2. Information,1. Yes,94.6956951317
+2004,41,5. Separated,1. White,4. College Grad,2. Information,1. Yes,87.9810327856
+2005,43,2. Married,1. White,4. College Grad,1. Industrial,2. No,109.8339856422
+2006,22,5. Separated,1. White,1. < HS Grad,1. Industrial,2. No,75.0431540174
+2008,41,2. Married,2. Black,5. Advanced Degree,2. Information,1. Yes,123.0896998479
+2006,26,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,66.9616443217
+2003,66,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,92.8958447895
+2003,56,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,130.9821773775
+2008,26,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,105.9278107751
+2004,35,2. Married,1. White,4. College Grad,1. Industrial,2. No,106.9218140912
+2008,72,2. Married,2. Black,5. Advanced Degree,1. Industrial,2. No,87.9810327856
+2007,44,2. Married,1. White,3. Some College,1. Industrial,1. Yes,134.7053751189
+2004,52,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,114.4757132903
+2005,,1. Never Married,2. Black,3. Some College,2. Information,2. No,73.7757432747
+2009,55,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,103.1813269587
+2007,53,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,281.7459705519
+2008,21,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,29.3769761006
+2004,35,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2003,52,4. Divorced,1. White,3. Some College,1. Industrial,2. No,22.9624006796
+2005,38,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,176.9896504899
+2006,63,2. Married,1. White,3. Some College,1. Industrial,1. Yes,134.7053751189
+2004,23,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,72.1504556816
+2003,44,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,143.1349408111
+2007,44,2. Married,1. White,2. HS Grad,1. Industrial,2. No,59.0970640816
+2003,33,1. Never Married,3. Asian,2. HS Grad,1. Industrial,1. Yes,99.2552868269
+2008,45,2. Married,1. White,4. College Grad,2. Information,1. Yes,176.9896504899
+,37,2. Married,1. White,2. HS Grad,2. Information,1. Yes,169.0735400494
+2006,52,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,73.7757432747
+2005,61,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,136.1577108372
+2007,51,2. Married,1. White,4. College Grad,1. Industrial,2. No,118.8843593399
+2005,,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,277.601417511
+2004,54,2. Married,1. White,2. HS Grad,2. Information,1. Yes,141.7751723332
+2003,28,2. Married,,2. HS Grad,1. Industrial,1. Yes,136.8763676352
+2009,41,2. Married,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2005,56,2. Married,3. Asian,5. Advanced Degree,1. Industrial,2. No,56.4538649754
+2007,63,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,109.8339856422
+2009,61,2. Married,1. White,3. Some College,1. Industrial,1. Yes,160.6424754083
+2009,45,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,82.6796372966
+2004,46,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,54.5981500331
+2008,43,2. Married,1. White,3. Some College,2. Information,2. No,134.7053751189
+2004,56,2. Married,1. White,2. HS Grad,1. Industrial,2. No,105.7676396228
+2005,40,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,163.5158639762
+2004,46,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,101.8243520757
+2005,56,4. Divorced,2. Black,3. Some College,2. Information,1. Yes,75.355679318
+2003,31,2. Married,1. White,3. Some College,2. Information,1. Yes,75.355679318
+2007,52,2. Married,1. White,3. Some College,2. Information,1. Yes,91.093218469
+2008,71,2. Married,1. White,3. Some College,1. Industrial,1. Yes,101.8243520757
+2005,30,2. Married,1. White,3. Some College,2. Information,1. Yes,103.9024706032
+2009,43,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2004,48,2. Married,2. Black,5. Advanced Degree,2. Information,2. No,85.383940379
+2007,48,2. Married,3. Asian,2. HS Grad,1. Industrial,2. No,95.6888119067
+2007,56,1. Never Married,1. White,5. Advanced Degree,2. Information,2. No,154.0729972063
+2004,27,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,65.1108537153
+2005,37,2. Married,1. White,1. < HS Grad,,2. No,73.7757432747
+2009,35,2. Married,1. White,3. Some College,1. Industrial,1. Yes,116.2653240625
+2005,54,2. Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2003,80,2. Married,1. White,2. HS Grad,1. Industrial,2. No,82.6796372966
+2008,25,1. Never Married,1. White,4. College Grad,2. Information,2. No,49.5553381215
+2003,57,2. Married,1. White,4. College Grad,2. Information,1. Yes,268.2662920126
+,50,2. Married,1. White,2. HS Grad,2. Information,1. Yes,81.2832532843
+2003,22,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,
+2003,56,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,85.383940379
+2009,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,104.9215065337
+2007,45,2. Married,1. White,4. College Grad,2. Information,1. Yes,130.983694295
+2005,50,2. Married,1. White,3. Some College,2. Information,1. Yes,114.4757132903
+2008,69,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2005,49,2. Married,1. White,3. Some College,1. Industrial,1. Yes,92.8958447895
+2009,26,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,105.9278107751
+2008,28,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,126.3238807098
+2003,32,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,66.9616443217
+2007,38,2. Married,2. Black,4. College Grad,2. Information,1. Yes,141.7751723332
+2003,22,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,68.3956538035
+2006,37,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,180.7799522299
+2006,31,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2004,39,2. Married,2. Black,1. < HS Grad,1. Industrial,2. No,73.7757432747
+2006,47,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,174.4028760123
+2008,66,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,276.7784133212
+2009,20,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,64.3510245723
+2003,50,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,104.9215065337
+2003,25,1. Never Married,1. White,1. < HS Grad,2. Information,1. Yes,79.8549003093
+2008,44,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,79.8549003093
+2008,33,2. Married,1. White,3. Some College,2. Information,1. Yes,87.9810327856
+2004,54,2. Married,1. White,4. College Grad,2. Information,2. No,200.5432623247
+2007,33,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,139.7030715277
+2009,49,1. Never Married,1. White,3. Some College,2. Information,2. No,82.7417541674
+2004,37,2. Married,1. White,5. Advanced Degree,2. Information,2. No,97.4932940454
+2003,37,2. Married,1. White,4. College Grad,2. Information,1. Yes,200.5432623247
+2007,33,2. Married,1. White,3. Some College,2. Information,2. No,106.9218140912
+2008,34,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,114.4757132903
+2007,56,2. Married,1. White,2. HS Grad,1. Industrial,2. No,99.6916283971
+2007,25,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2003,45,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,140.3982001619
+2005,63,2. Married,1. White,2. HS Grad,2. Information,1. Yes,136.3039975621
+2003,39,2. Married,1. White,3. Some College,1. Industrial,1. Yes,145.1436011769
+2009,47,4. Divorced,1. White,4. College Grad,1. Industrial,1. Yes,144.4780876654
+2009,55,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,75.355679318
+2007,56,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,125.123815722
+,59,2. Married,1. White,3. Some College,2. Information,1. Yes,139.0034080595
+2005,80,1. Never Married,1. White,2. HS Grad,2. Information,2. No,87.9810327856
+2008,24,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,87.9810327856
+2007,54,2. Married,1. White,3. Some College,1. Industrial,1. Yes,148.4131591026
+2005,42,2. Married,1. White,2. HS Grad,1. Industrial,2. No,109.8339856422
+2008,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,143.1349408111
+2003,27,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,66.2294082944
+2009,37,,1. White,4. College Grad,2. Information,1. Yes,104.9215065337
+2007,40,2. Married,1. White,4. College Grad,2. Information,2. No,160.6424754083
+2005,50,2. Married,4. Other,1. < HS Grad,2. Information,2. No,111.720849361
+2003,42,2. Married,1. White,3. Some College,2. Information,1. Yes,96.3706528322
+2005,53,2. Married,1. White,2. HS Grad,2. Information,2. No,75.0431540174
+2004,42,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,65.1108537153
+2008,54,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,163.5158639762
+2006,36,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,107.9039238669
+2009,31,2. Married,2. Black,3. Some College,2. Information,1. Yes,133.2323508266
+2004,43,2. Married,1. White,4. College Grad,2. Information,1. Yes,171.7651326275
+2005,25,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,94.0727147457
+2008,48,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,115.3750385564
+2003,24,1. Never Married,1. White,3. Some College,1. Industrial,2. No,63.1888610037
+2008,38,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2004,40,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,176.9896504899
+2004,44,2. Married,,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2003,41,2. Married,,3. Some College,1. Industrial,2. No,127.1157438122
+2005,35,4. Divorced,1. White,4. College Grad,1. Industrial,1. Yes,98.5993438604
+2003,25,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,
+2005,39,2. Married,1. White,2. HS Grad,2. Information,1. Yes,87.9810327856
+2008,36,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,87.9823064295
+2003,36,2. Married,1. White,4. College Grad,2. Information,1. Yes,148.4131591026
+2005,22,1. Never Married,1. White,3. Some College,1. Industrial,2. No,63.1888610037
+2006,46,4. Divorced,1. White,3. Some College,2. Information,1. Yes,144.4780876654
+2005,50,2. Married,1. White,2. HS Grad,2. Information,1. Yes,111.720849361
+2009,33,1. Never Married,1. White,3. Some College,1. Industrial,2. No,79.8549003093
+2007,56,2. Married,1. White,4. College Grad,2. Information,1. Yes,142.4571698851
+2009,36,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,86.910327739
+2005,59,4. Divorced,1. White,1. < HS Grad,1. Industrial,1. Yes,54.1212053952
+2005,52,2. Married,2. Black,2. HS Grad,2. Information,2. No,52.1561711699
+2007,39,2. Married,1. White,4. College Grad,2. Information,1. Yes,163.5158639762
+2007,48,1. Never Married,3. Asian,2. HS Grad,1. Industrial,2. No,65.1108537153
+2005,30,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,117.1468169148
+2009,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,180.7799522299
+2003,42,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,109.7060518127
+2007,46,2. Married,2. Black,3. Some College,2. Information,1. Yes,
+2008,29,2. Married,2. Black,4. College Grad,2. Information,1. Yes,81.2832532843
+2003,33,2. Married,1. White,4. College Grad,2. Information,1. Yes,123.0896998479
+2008,49,2. Married,1. White,2. HS Grad,2. Information,1. Yes,118.8843593399
+,32,2. Married,,3. Some College,1. Industrial,2. No,
+2004,35,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,109.8339856422
+2005,57,2. Married,1. White,5. Advanced Degree,2. Information,2. No,200.5432623247
+2005,36,2. Married,2. Black,4. College Grad,1. Industrial,1. Yes,127.1157438122
+2003,53,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,126.9578856772
+2004,44,2. Married,1. White,4. College Grad,2. Information,2. No,160.6424754083
+2007,49,1. Never Married,1. White,2. HS Grad,2. Information,2. No,57.9709421773
+2009,50,1. Never Married,2. Black,5. Advanced Degree,2. Information,1. Yes,109.8339856422
+2003,61,2. Married,1. White,3. Some College,2. Information,1. Yes,99.6894636985
+2003,23,1. Never Married,1. White,4. College Grad,1. Industrial,2. No,76.8936025176
+2003,60,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,104.9215065337
+2007,45,2. Married,1. White,3. Some College,1. Industrial,1. Yes,114.4757132903
+2003,43,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,70.9095858697
+2008,37,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,70.4760196469
+2003,36,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,99.6894636985
+2004,42,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,160.6424754083
+2008,24,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,66.2330957333
+2006,35,5. Separated,1. White,3. Some College,2. Information,2. No,81.2832532843
+2003,27,1. Never Married,2. Black,2. HS Grad,2. Information,2. No,23.2747040517
+2005,30,2. Married,1. White,4. College Grad,2. Information,1. Yes,104.9215065337
+2009,24,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,148.4131591026
+2009,45,2. Married,1. White,3. Some College,1. Industrial,2. No,166.3249412339
+2009,55,2. Married,1. White,2. HS Grad,2. Information,1. Yes,107.9039238669
+2005,42,2. Married,1. White,2. HS Grad,2. Information,1. Yes,114.4757132903
+2008,28,2. Married,1. White,2. HS Grad,1. Industrial,2. No,101.8243520757
+2003,51,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,98.5993438604
+2009,32,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,123.0896998479
+2007,43,4. Divorced,1. White,1. < HS Grad,2. Information,2. No,100.099662492
+2008,37,1. Never Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2003,54,2. Married,1. White,5. Advanced Degree,2. Information,2. No,148.4131591026
+2006,54,5. Separated,1. White,5. Advanced Degree,2. Information,1. Yes,277.7994802057
+2004,33,1. Never Married,3. Asian,4. College Grad,2. Information,1. Yes,86.6951548289
+2009,41,2. Married,3. Asian,4. College Grad,2. Information,2. No,94.0727147457
+2006,68,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,87.9810327856
+2009,47,2. Married,1. White,3. Some College,2. Information,1. Yes,151.5914842398
+2005,53,2. Married,1. White,2. HS Grad,2. Information,1. Yes,97.4932940454
+2006,58,2. Married,1. White,1. < HS Grad,,1. Yes,
+2003,38,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,118.01975334
+2004,32,2. Married,1. White,3. Some College,1. Industrial,2. No,99.6894636985
+2008,44,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,136.1577108372
+2005,44,2. Married,2. Black,3. Some College,2. Information,1. Yes,85.383940379
+2003,58,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,120.5894365304
+2007,46,2. Married,3. Asian,1. < HS Grad,1. Industrial,2. No,73.7757432747
+2003,46,2. Married,1. White,2. HS Grad,1. Industrial,2. No,141.7751723332
+2008,33,2. Married,1. White,2. HS Grad,1. Industrial,2. No,65.1146238778
+2008,52,2. Married,1. White,2. HS Grad,2. Information,1. Yes,114.4757132903
+2009,30,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2005,23,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,65.1108537153
+2004,46,2. Married,1. White,2. HS Grad,1. Industrial,2. No,87.9810327856
+2009,44,2. Married,1. White,2. HS Grad,2. Information,2. No,109.8339856422
+2008,54,2. Married,1. White,3. Some College,1. Industrial,1. Yes,107.9039238669
+2009,63,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,171.7651326275
+2006,32,2. Married,1. White,2. HS Grad,1. Industrial,2. No,87.9810327856
+2007,42,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,49.5553381215
+2007,45,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2009,34,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,152.8388009912
+2005,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,176.9896504899
+2005,36,1. Never Married,1. White,3. Some College,2. Information,1. Yes,123.0896998479
+2003,34,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,90.4819133566
+2005,24,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,72.1504556816
+2003,20,1. Never Married,1. White,2. HS Grad,2. Information,2. No,61.187526434
+2005,45,2. Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2006,18,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,75.0431540174
+2009,40,5. Separated,1. White,1. < HS Grad,1. Industrial,2. No,75.0431540174
+2003,38,2. Married,1. White,2. HS Grad,1. Industrial,2. No,104.0049599122
+2006,20,1. Never Married,2. Black,2. HS Grad,2. Information,1. Yes,75.0431540174
+2006,62,5. Separated,2. Black,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2006,47,2. Married,2. Black,2. HS Grad,2. Information,2. No,117.1468169148
+2009,55,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2005,43,2. Married,1. White,2. HS Grad,1. Industrial,2. No,72.1504556816
+2007,33,2. Married,1. White,3. Some College,1. Industrial,2. No,85.383940379
+2003,62,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,268.2662920126
+2008,39,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,145.1436011769
+2003,41,1. Never Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,180.0301970762
+2008,44,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,43.735111678
+2004,56,2. Married,1. White,5. Advanced Degree,2. Information,2. No,163.5158639762
+2008,58,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,73.1183069239
+2009,50,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,186.876677628
+2003,47,2. Married,1. White,3. Some College,1. Industrial,1. Yes,146.4628385151
+2006,42,2. Married,1. White,2. HS Grad,2. Information,2. No,91.6992261117
+2008,44,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,111.720849361
+2009,62,2. Married,1. White,2. HS Grad,2. Information,1. Yes,109.8339856422
+2003,44,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2006,48,2. Married,1. White,2. HS Grad,2. Information,1. Yes,111.1854619302
+2008,52,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,154.6852929956
+2007,29,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,73.7757432747
+2009,51,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,82.6796372966
+2003,34,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,81.2860772898
+2004,35,2. Married,3. Asian,1. < HS Grad,1. Industrial,2. No,63.1888610037
+2006,46,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,90.4819133566
+2004,40,2. Married,1. White,3. Some College,2. Information,1. Yes,87.9810327856
+2009,36,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,77.4976813877
+2004,48,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,127.1157438122
+2003,43,1. Never Married,1. White,1. < HS Grad,1. Industrial,1. Yes,
+2004,37,1. Never Married,1. White,4. College Grad,2. Information,2. No,84.718389703
+2005,50,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,97.4932940454
+2005,42,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,101.8243520757
+2005,48,2. Married,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457
+2008,41,2. Married,1. White,3. Some College,1. Industrial,2. No,108.8745258347
+2006,50,2. Married,1. White,3. Some College,1. Industrial,1. Yes,176.9896504899
+2009,44,2. Married,2. Black,3. Some College,1. Industrial,2. No,104.9235317007
+2006,56,5. Separated,3. Asian,4. College Grad,2. Information,2. No,99.6894636985
+2005,41,2. Married,2. Black,1. < HS Grad,1. Industrial,1. Yes,130.9821773775
+2005,32,2. Married,1. White,3. Some College,2. Information,1. Yes,117.1468169148
+2004,48,4. Divorced,1. White,5. Advanced Degree,2. Information,1. Yes,130.9821773775
+2003,52,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,134.7053751189
+2004,43,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,163.5158639762
+2003,19,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,27.1405792079
+2009,53,2. Married,1. White,1. < HS Grad,2. Information,2. No,68.076428289
+2005,49,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,117.1468169148
+,41,2. Married,1. White,3. Some College,1. Industrial,1. Yes,127.1157438122
+2005,44,2. Married,1. White,4. College Grad,2. Information,1. Yes,118.5567764151
+2004,58,2. Married,1. White,4. College Grad,2. Information,1. Yes,272.2947832201
+2007,42,2. Married,1. White,3. Some College,,1. Yes,98.5993438604
+2009,22,2. Married,1. White,3. Some College,1. Industrial,2. No,32.3664131749
+2009,51,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.01975334
+2004,40,2. Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2003,56,2. Married,1. White,2. HS Grad,2. Information,1. Yes,134.7053751189
+2005,56,2. Married,1. White,2. HS Grad,1. Industrial,2. No,97.4932940454
+2009,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,267.9010868553
+2004,36,2. Married,1. White,4. College Grad,2. Information,1. Yes,94.654020382
+2009,35,2. Married,1. White,3. Some College,1. Industrial,1. Yes,131.6218030331
+2003,22,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,54.5981500331
+2004,32,2. Married,1. White,4. College Grad,2. Information,1. Yes,84.045957654
+2009,59,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,171.7651326275
+2003,44,2. Married,1. White,2. HS Grad,2. Information,1. Yes,91.6992261117
+2006,31,2. Married,1. White,2. HS Grad,1. Industrial,2. No,66.2294082944
+2005,27,2. Married,2. Black,1. < HS Grad,1. Industrial,2. No,66.2294082944
+2008,28,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,82.6796372966
+2006,61,1. Never Married,1. White,5. Advanced Degree,1. Industrial,2. No,82.6796372966
+,52,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2005,49,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,105.9278107751
+2007,26,2. Married,1. White,2. HS Grad,1. Industrial,2. No,99.6894636985
+2009,31,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,127.1157438122
+2009,32,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,91.6992261117
+2009,54,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2008,35,2. Married,1. White,3. Some College,1. Industrial,1. Yes,96.3706528322
+2006,58,2. Married,1. White,4. College Grad,2. Information,1. Yes,134.7053751189
+2006,47,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2006,53,2. Married,1. White,3. Some College,2. Information,1. Yes,89.2428846645
+2003,70,2. Married,1. White,2. HS Grad,1. Industrial,2. No,
+2009,49,2. Married,1. White,3. Some College,2. Information,1. Yes,104.9215065337
+2005,47,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,143.3253181088
+2008,23,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,61.5945831752
+2003,24,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2006,20,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,69.9291272064
+2008,35,2. Married,2. Black,3. Some College,2. Information,1. Yes,123.0896998479
+2003,23,1. Never Married,1. White,3. Some College,1. Industrial,2. No,35.0334213215
+2009,51,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,79.8549003093
+2003,60,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,268.2662920126
+2005,41,4. Divorced,4. Other,3. Some College,2. Information,1. Yes,117.1468169148
+2006,45,2. Married,2. Black,4. College Grad,1. Industrial,1. Yes,99.6894636985
+2003,51,4. Divorced,1. White,1. < HS Grad,1. Industrial,1. Yes,87.9810327856
+2007,26,2. Married,1. White,2. HS Grad,2. Information,2. No,73.7757432747
+2009,27,1. Never Married,,2. HS Grad,2. Information,1. Yes,104.9215065337
+2009,51,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,128.6804882206
+2006,30,1. Never Married,3. Asian,4. College Grad,2. Information,1. Yes,127.1157438122
+2007,43,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,167.7065755526
+2008,46,1. Never Married,2. Black,4. College Grad,1. Industrial,1. Yes,120.5894365304
+,30,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,95.230712567
+2007,40,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,148.4131591026
+2004,37,2. Married,2. Black,4. College Grad,2. Information,1. Yes,104.9215065337
+2004,40,2. Married,3. Asian,5. Advanced Degree,1. Industrial,2. No,166.3249412339
+2003,45,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,176.9896504899
+2005,32,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,114.4757132903
+2004,43,1. Never Married,1. White,3. Some College,2. Information,1. Yes,91.6992261117
+2005,55,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2004,56,4. Divorced,1. White,4. College Grad,1. Industrial,1. Yes,85.383940379
+2004,32,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,84.045957654
+2003,43,2. Married,1. White,2. HS Grad,1. Industrial,2. No,73.7757432747
+2008,50,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2008,38,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,276.7784133212
+2009,69,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,40.4056652597
+2008,45,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,109.8339856422
+2004,49,2. Married,1. White,2. HS Grad,2. Information,1. Yes,102.8702469332
+2006,29,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,99.6894636985
+2006,27,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,106.9218140912
+,48,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,160.6424754083
+2003,60,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,35.0334213215
+2005,35,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,89.492479518
+2009,52,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,119.7425562899
+2004,59,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,182.0206209635
+2003,58,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,97.4932940454
+2007,35,2. Married,1. White,4. College Grad,2. Information,1. Yes,118.8843593399
+2005,31,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,73.7757432747
+2003,48,5. Separated,2. Black,2. HS Grad,2. Information,2. No,95.230712567
+2007,31,2. Married,3. Asian,4. College Grad,2. Information,2. No,134.7053751189
+2004,52,2. Married,1. White,2. HS Grad,2. Information,1. Yes,128.6804882206
+2003,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,98.5993438604
+2004,34,1. Never Married,1. White,2. HS Grad,2. Information,2. No,79.8549003093
+2007,26,1. Never Married,2. Black,4. College Grad,1. Industrial,1. Yes,
+2008,50,2. Married,1. White,4. College Grad,1. Industrial,2. No,82.6796372966
+2008,38,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,129.4536445766
+2003,39,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,78.2145756932
+2005,45,2. Married,1. White,2. HS Grad,2. Information,2. No,87.9810327856
+2003,56,4. Divorced,1. White,4. College Grad,1. Industrial,2. No,109.8339856422
+2006,34,2. Married,1. White,2. HS Grad,1. Industrial,2. No,56.9055391447
+2006,48,2. Married,3. Asian,4. College Grad,2. Information,2. No,141.7751723332
+2006,53,1. Never Married,1. White,3. Some College,2. Information,2. No,99.6894636985
+,38,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,92.6581301669
+2003,65,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,73.7757432747
+2004,24,1. Never Married,1. White,4. College Grad,2. Information,2. No,94.0727147457
+2006,45,2. Married,,3. Some College,2. Information,1. Yes,114.4757132903
+2006,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,108.0658303097
+2005,22,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,72.1504556816
+2008,60,2. Married,3. Asian,3. Some College,2. Information,1. Yes,127.1157438122
+2005,41,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,128.6804882206
+2003,50,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,91.6992261117
+2003,40,1. Never Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,102.8702469332
+2006,54,4. Divorced,1. White,3. Some College,2. Information,2. No,90.4819133566
+2006,30,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2003,58,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,87.9810327856
+2008,60,2. Married,2. Black,1. < HS Grad,1. Industrial,2. No,93.0534873611
+2008,33,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,134.7053751189
+2004,41,2. Married,1. White,2. HS Grad,2. Information,2. No,92.8958447895
+2007,55,3. Widowed,1. White,4. College Grad,1. Industrial,1. Yes,127.1157438122
+2007,49,2. Married,1. White,2. HS Grad,1. Industrial,2. No,
+2007,53,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,92.8958447895
+2008,48,2. Married,1. White,4. College Grad,2. Information,1. Yes,107.9039238669
+2004,58,2. Married,1. White,2. HS Grad,2. Information,1. Yes,102.8702469332
+2004,45,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,150.0132862827
+2009,59,3. Widowed,2. Black,2. HS Grad,2. Information,1. Yes,104.9215065337
+2005,47,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,87.9810327856
+2007,31,2. Married,3. Asian,2. HS Grad,1. Industrial,2. No,81.2832532843
+2004,61,2. Married,1. White,3. Some College,1. Industrial,1. Yes,106.7239776253
+2007,42,2. Married,1. White,3. Some College,1. Industrial,1. Yes,109.8339856422
+2005,,2. Married,1. White,2. HS Grad,1. Industrial,2. No,84.045957654
+2004,24,1. Never Married,1. White,4. College Grad,2. Information,2. No,70.4760196469
+2008,34,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,118.8843593399
+2009,65,4. Divorced,2. Black,2. HS Grad,1. Industrial,2. No,87.9810327856
+2006,22,1. Never Married,1. White,2. HS Grad,2. Information,2. No,99.6894636985
+2003,30,1. Never Married,1. White,3. Some College,1. Industrial,2. No,84.045957654
+2005,29,2. Married,2. Black,3. Some College,2. Information,1. Yes,87.9810327856
+2009,38,4. Divorced,1. White,3. Some College,1. Industrial,2. No,109.8339856422
+2005,33,1. Never Married,2. Black,2. HS Grad,1. Industrial,2. No,73.7757432747
+2009,58,2. Married,1. White,2. HS Grad,1. Industrial,2. No,85.383940379
+2005,46,1. Never Married,2. Black,4. College Grad,,1. Yes,104.9215065337
+2007,76,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,76.8936025176
+2004,40,2. Married,1. White,3. Some College,1. Industrial,1. Yes,136.8763676352
+2009,32,1. Never Married,1. White,3. Some College,2. Information,1. Yes,115.3750385564
+2008,35,2. Married,3. Asian,1. < HS Grad,1. Industrial,2. No,65.1108537153
+2004,46,2. Married,1. White,4. College Grad,2. Information,1. Yes,185.2833170885
+2005,19,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,31.4109962716
+2007,32,1. Never Married,1. White,2. HS Grad,,1. Yes,89.492479518
+2006,32,1. Never Married,1. White,3. Some College,1. Industrial,2. No,56.9055391447
+2008,23,2. Married,1. White,2. HS Grad,1. Industrial,2. No,78.3465619953
+2008,21,1. Never Married,2. Black,2. HS Grad,1. Industrial,2. No,84.045957654
+2003,21,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,63.1888610037
+2009,36,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,267.9010868553
+2003,55,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,142.634472768
+2009,56,4. Divorced,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2003,26,1. Never Married,3. Asian,4. College Grad,2. Information,1. Yes,268.2662920126
+2006,29,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,109.8339856422
+2003,74,3. Widowed,2. Black,4. College Grad,2. Information,2. No,70.4760196469
+2008,71,2. Married,1. White,2. HS Grad,1. Industrial,2. No,99.6916283971
+2003,35,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,144.4780876654
+2006,47,2. Married,1. White,3. Some College,1. Industrial,1. Yes,150.0704769094
+2004,52,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,133.9715000707
+2005,32,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2004,20,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,82.6796372966
+2006,49,1. Never Married,2. Black,4. College Grad,1. Industrial,1. Yes,141.7751723332
+2004,29,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,61.187526434
+2004,46,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,99.6894636985
+2008,40,2. Married,1. White,2. HS Grad,2. Information,1. Yes,130.9821773775
+2004,32,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,70.4760196469
+2006,34,2. Married,1. White,4. College Grad,2. Information,1. Yes,148.4131591026
+2006,48,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,81.6984217247
+2003,57,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,130.9821773775
+2008,55,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,127.1157438122
+2003,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,101.8243520757
+2003,37,2. Married,1. White,3. Some College,2. Information,1. Yes,111.720849361
+2005,32,1. Never Married,1. White,3. Some College,2. Information,1. Yes,86.1737867271
+2004,55,2. Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2009,50,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,92.8958447895
+2003,35,5. Separated,1. White,1. < HS Grad,2. Information,2. No,62.1986794303
+2004,40,2. Married,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2004,34,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,148.4131591026
+2005,41,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,124.7204462429
+2005,40,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,87.9810327856
+2009,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,200.5432623247
+2009,59,2. Married,1. White,5. Advanced Degree,2. Information,2. No,93.721673962
+2003,50,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,81.2832532843
+2004,28,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,56.9055391447
+2007,28,2. Married,1. White,2. HS Grad,1. Industrial,2. No,66.2294082944
+2007,48,2. Married,1. White,3. Some College,2. Information,2. No,109.31532002
+2007,22,1. Never Married,1. White,,1. Industrial,2. No,59.0970640816
+2008,52,2. Married,1. White,2. HS Grad,2. Information,2. No,79.8549003093
+2003,48,2. Married,1. White,2. HS Grad,1. Industrial,2. No,97.4932940454
+2005,40,2. Married,1. White,3. Some College,2. Information,1. Yes,120.9267015444
+2006,37,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,75.0431540174
+2004,45,1. Never Married,2. Black,2. HS Grad,2. Information,1. Yes,66.9616443217
+2004,42,2. Married,1. White,3. Some College,1. Industrial,1. Yes,148.4131591026
+2006,38,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,107.9039238669
+2003,47,2. Married,1. White,4. College Grad,2. Information,1. Yes,127.1157438122
+2004,40,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,82.6796372966
+2004,56,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,120.9267015444
+2003,51,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,70.8150386168
+2008,43,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,87.9810327856
+2005,53,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,70.4760196469
+2004,41,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,90.4819133566
+2003,23,1. Never Married,2. Black,1. < HS Grad,2. Information,2. No,
+2009,43,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,156.5035108826
+2004,39,2. Married,1. White,3. Some College,2. Information,2. No,106.9218140912
+2008,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,166.3249412339
+2007,45,2. Married,1. White,2. HS Grad,2. Information,1. Yes,73.7757432747
+2005,35,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,200.5432623247
+2003,26,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,56.9055391447
+2006,45,2. Married,3. Asian,3. Some College,1. Industrial,1. Yes,130.9821773775
+2005,40,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2003,39,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,104.9215065337
+2007,38,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,109.8339856422
+2005,36,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,134.7053751189
+2005,51,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,65.1108537153
+2003,40,2. Married,4. Other,2. HS Grad,2. Information,1. Yes,138.6391722216
+2009,37,1. Never Married,2. Black,3. Some College,1. Industrial,1. Yes,94.0727147457
+2008,33,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,125.5254984338
+2003,43,,1. White,2. HS Grad,2. Information,1. Yes,72.4793162971
+2007,41,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,284.5247409022
+2009,32,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,138.2991269209
+2008,31,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,92.8958447895
+2004,22,1. Never Married,1. White,3. Some College,1. Industrial,2. No,80.4302079458
+2008,35,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,85.9010443227
+2006,38,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457
+2009,20,1. Never Married,2. Black,3. Some College,2. Information,2. No,46.3665027413
+2009,62,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,170.4601659149
+2007,33,2. Married,2. Black,4. College Grad,2. Information,2. No,109.8339856422
+2009,39,2. Married,1. White,2. HS Grad,2. Information,2. No,73.7773452719
+2005,24,1. Never Married,2. Black,3. Some College,2. Information,2. No,73.9357192872
+2003,23,1. Never Married,1. White,3. Some College,2. Information,2. No,90.4819133566
+2008,58,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,135.5980597522
+2003,43,2. Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2009,38,2. Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2003,34,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,68.7480877338
+2003,55,2. Married,1. White,4. College Grad,2. Information,1. Yes,105.9278107751
+2009,26,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,78.392466801
+2003,30,2. Married,4. Other,1. < HS Grad,2. Information,2. No,123.0896998479
+2007,30,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,93.878683485
+2007,47,2. Married,1. White,2. HS Grad,1. Industrial,2. No,84.8520440938
+,56,3. Widowed,1. White,4. College Grad,1. Industrial,1. Yes,87.9810327856
+2005,46,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,134.7053751189
+2006,32,2. Married,1. White,3. Some College,1. Industrial,1. Yes,106.9218140912
+2003,62,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,130.9821773775
+2004,52,4. Divorced,1. White,3. Some College,2. Information,1. Yes,115.3750385564
+2005,46,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,117.1468169148
+2004,43,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,272.2947832201
+2008,58,2. Married,1. White,3. Some College,1. Industrial,2. No,104.9215065337
+2008,45,,1. White,2. HS Grad,1. Industrial,1. Yes,145.1436011769
+2005,46,2. Married,4. Other,5. Advanced Degree,2. Information,1. Yes,145.1436011769
+2003,58,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,148.4131591026
+2003,50,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,94.0727147457
+2005,50,2. Married,1. White,2. HS Grad,1. Industrial,2. No,91.6992261117
+2009,30,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,114.4757132903
+2004,35,2. Married,1. White,3. Some College,1. Industrial,2. No,123.0896998479
+2006,52,2. Married,1. White,3. Some College,1. Industrial,1. Yes,109.8339856422
+2009,47,2. Married,3. Asian,3. Some College,2. Information,2. No,118.8843593399
+2005,38,2. Married,1. White,2. HS Grad,1. Industrial,2. No,87.8535469004
+2004,33,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,95.230712567
+2003,46,2. Married,1. White,2. HS Grad,2. Information,1. Yes,114.4757132903
+2003,46,2. Married,1. White,2. HS Grad,2. Information,2. No,94.0727147457
+2009,54,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,166.3249412339
+2005,58,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,59.0970640816
+2006,33,2. Married,1. White,1. < HS Grad,2. Information,2. No,73.7757432747
+2008,48,2. Married,1. White,4. College Grad,2. Information,1. Yes,145.1436011769
+2006,20,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,70.4760196469
+2005,47,5. Separated,1. White,1. < HS Grad,1. Industrial,2. No,61.187526434
+2005,29,2. Married,1. White,3. Some College,1. Industrial,1. Yes,102.8702469332
+2009,44,2. Married,1. White,4. College Grad,2. Information,2. No,94.0727147457
+2007,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,141.7751723332
+2008,53,2. Married,1. White,2. HS Grad,1. Industrial,2. No,109.8339856422
+2003,43,2. Married,3. Asian,1. < HS Grad,2. Information,2. No,65.1108537153
+2008,47,2. Married,1. White,4. College Grad,2. Information,1. Yes,134.7053751189
+2004,59,2. Married,1. White,1. < HS Grad,,1. Yes,89.1678286671
+2006,47,2. Married,1. White,3. Some College,2. Information,1. Yes,134.7053751189
+2007,38,2. Married,1. White,3. Some College,1. Industrial,1. Yes,128.6804882206
+2008,48,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,107.9039238669
+2004,41,2. Married,1. White,2. HS Grad,2. Information,1. Yes,148.4131591026
+2006,39,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,277.7994802057
+2009,66,2. Married,1. White,4. College Grad,2. Information,1. Yes,127.1157438122
+2005,30,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,85.383940379
+2007,66,2. Married,2. Black,1. < HS Grad,2. Information,1. Yes,99.6894636985
+2007,45,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,148.4131591026
+2004,55,2. Married,1. White,4. College Grad,2. Information,2. No,134.7053751189
+2009,27,2. Married,2. Black,3. Some College,2. Information,1. Yes,99.6894636985
+2003,33,2. Married,1. White,4. College Grad,1. Industrial,2. No,107.9039238669
+2008,34,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,134.7053751189
+2006,50,2. Married,1. White,2. HS Grad,2. Information,1. Yes,123.0896998479
+2003,61,2. Married,1. White,5. Advanced Degree,2. Information,2. No,130.9821773775
+2005,58,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,227.458934033
+2004,28,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,99.6894636985
+2005,28,2. Married,1. White,3. Some College,1. Industrial,1. Yes,96.934090457
+2007,50,2. Married,1. White,4. College Grad,2. Information,1. Yes,113.5670895698
+2007,55,4. Divorced,1. White,4. College Grad,1. Industrial,1. Yes,147.11668916
+2008,46,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,276.7784133212
+2008,34,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,118.8843593399
+2004,45,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,138.2991269209
+2004,52,2. Married,1. White,3. Some College,2. Information,2. No,94.0727147457
+2008,31,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2004,42,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,95.230712567
+2009,44,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,118.8843593399
+2005,55,2. Married,1. White,2. HS Grad,2. Information,1. Yes,114.4757132903
+2009,58,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,104.9215065337
+2008,47,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,176.9896504899
+2009,23,1. Never Married,1. White,2. HS Grad,2. Information,2. No,49.5553381215
+2006,71,2. Married,2. Black,1. < HS Grad,1. Industrial,2. No,89.2428846645
+2003,60,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,59.0970640816
+2009,49,4. Divorced,1. White,1. < HS Grad,2. Information,1. Yes,102.8702469332
+2004,25,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,61.187526434
+2005,41,4. Divorced,2. Black,3. Some College,2. Information,1. Yes,104.9215065337
+2006,61,2. Married,1. White,3. Some College,2. Information,1. Yes,130.9821773775
+2008,61,2. Married,1. White,4. College Grad,2. Information,2. No,79.8549003093
+2006,32,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,104.9215065337
+2008,27,1. Never Married,1. White,4. College Grad,1. Industrial,2. No,81.2832532843
+2006,58,2. Married,2. Black,1. < HS Grad,1. Industrial,1. Yes,70.4760196469
+2008,48,2. Married,1. White,2. HS Grad,1. Industrial,2. No,114.4757132903
+2007,50,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,126.3238807098
+2006,62,2. Married,1. White,2. HS Grad,2. Information,1. Yes,101.8243520757
+2003,51,2. Married,1. White,2. HS Grad,1. Industrial,2. No,104.9215065337
+2009,30,1. Never Married,2. Black,3. Some College,1. Industrial,2. No,94.0727147457
+2006,37,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,94.0727147457
+2009,30,,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,118.8843593399
+2008,51,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,59.0328548279
+2003,51,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,178.700657207
+2007,49,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,79.8549003093
+2005,25,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2004,36,2. Married,1. White,2. HS Grad,1. Industrial,2. No,76.8936025176
+2009,55,2. Married,3. Asian,1. < HS Grad,1. Industrial,2. No,54.5981500331
+2006,49,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,154.6852929956
+2006,47,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,112.6488963421
+2003,38,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,70.4760196469
+2007,46,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,318.3424300565
+2003,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2003,43,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2004,31,1. Never Married,2. Black,,2. Information,1. Yes,109.8339856422
+2005,46,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,90.4819133566
+2005,28,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,90.4819133566
+2006,45,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,95.230712567
+2005,57,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,148.4131591026
+2009,53,2. Married,2. Black,3. Some College,2. Information,1. Yes,123.0896998479
+2004,40,2. Married,1. White,3. Some College,2. Information,1. Yes,193.8668781466
+2003,42,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,120.5894365304
+2003,50,2. Married,1. White,2. HS Grad,1. Industrial,2. No,76.8936025176
+2003,40,2. Married,3. Asian,5. Advanced Degree,1. Industrial,2. No,115.3750385564
+2007,29,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,73.7757432747
+2005,40,2. Married,1. White,3. Some College,2. Information,1. Yes,123.0896998479
+2008,40,2. Married,1. White,2. HS Grad,2. Information,1. Yes,101.8243520757
+2003,64,1. Never Married,1. White,3. Some College,2. Information,1. Yes,99.6894636985
+2005,43,2. Married,1. White,2. HS Grad,2. Information,1. Yes,90.4819133566
+2008,49,2. Married,3. Asian,2. HS Grad,2. Information,1. Yes,65.1108537153
+2006,43,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,95.230712567
+2008,27,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,93.5572673479
+2006,28,1. Never Married,2. Black,3. Some College,1. Industrial,,54.5981500331
+2003,40,2. Married,1. White,5. Advanced Degree,2. Information,2. No,127.1157438122
+2006,49,2. Married,1. White,2. HS Grad,1. Industrial,2. No,87.9810327856
+2006,54,5. Separated,1. White,4. College Grad,1. Industrial,1. Yes,148.4131591026
+2006,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2003,40,2. Married,1. White,3. Some College,1. Industrial,2. No,80.8581959565
+2008,64,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,95.230712567
+2004,27,2. Married,1. White,2. HS Grad,1. Industrial,2. No,72.1504556816
+2005,40,2. Married,2. Black,3. Some College,2. Information,2. No,78.392466801
+2007,46,2. Married,1. White,2. HS Grad,1. Industrial,2. No,93.486692043
+2008,39,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,99.6894636985
+2008,48,2. Married,1. White,4. College Grad,2. Information,1. Yes,123.0896998479
+2008,58,1. Never Married,1. White,1. < HS Grad,2. Information,1. Yes,
+2005,48,2. Married,2. Black,3. Some College,1. Industrial,2. No,87.7884362155
+2003,22,1. Never Married,1. White,3. Some College,1. Industrial,2. No,73.7757432747
+2009,55,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,102.8702469332
+2009,63,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2009,45,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2007,58,4. Divorced,1. White,3. Some College,2. Information,1. Yes,111.720849361
+2009,52,2. Married,1. White,5. Advanced Degree,2. Information,2. No,133.2323508266
+2009,26,1. Never Married,1. White,3. Some College,1. Industrial,2. No,94.0727147457
+2007,51,2. Married,1. White,4. College Grad,2. Information,1. Yes,94.0727147457
+2006,53,2. Married,1. White,5. Advanced Degree,2. Information,2. No,160.6424754083
+2008,38,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,136.8763676352
+2004,47,2. Married,3. Asian,3. Some College,1. Industrial,1. Yes,118.8843593399
+2006,39,2. Married,1. White,2. HS Grad,2. Information,1. Yes,99.6894636985
+2007,39,2. Married,1. White,4. College Grad,2. Information,1. Yes,148.4131591026
+2008,58,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,70.4760196469
+2006,20,1. Never Married,2. Black,3. Some College,2. Information,2. No,75.0431540174
+2003,25,1. Never Married,1. White,3. Some College,1. Industrial,2. No,94.0727147457
+2003,38,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,131.737801155
+2006,62,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,73.7757432747
+2005,45,2. Married,1. White,2. HS Grad,2. Information,1. Yes,134.7053751189
+2009,46,2. Married,1. White,3. Some College,1. Industrial,1. Yes,104.9215065337
+2008,49,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,279.1974969917
+2006,45,2. Married,1. White,2. HS Grad,1. Industrial,,101.402052303
+2005,45,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2008,66,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,148.4131591026
+2007,47,2. Married,1. White,3. Some College,1. Industrial,1. Yes,171.7651326275
+2006,37,4. Divorced,1. White,4. College Grad,1. Industrial,2. No,109.8339856422
+2009,37,2. Married,1. White,4. College Grad,2. Information,1. Yes,107.2560621284
+2007,41,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,87.9810327856
+2008,37,1. Never Married,1. White,5. Advanced Degree,2. Information,2. No,182.0206209635
+2005,27,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,127.1157438122
+2004,33,2. Married,2. Black,3. Some College,2. Information,1. Yes,104.9215065337
+2008,37,2. Married,1. White,2. HS Grad,2. Information,1. Yes,96.3706528322
+2003,45,2. Married,1. White,4. College Grad,2. Information,1. Yes,133.2323508266
+2006,47,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2004,53,2. Married,1. White,4. College Grad,2. Information,1. Yes,136.8763676352
+2005,44,4. Divorced,4. Other,5. Advanced Degree,2. Information,1. Yes,68.7480877338
+2007,50,2. Married,3. Asian,3. Some College,1. Industrial,2. No,118.8843593399
+2003,44,2. Married,1. White,5. Advanced Degree,2. Information,2. No,99.6894636985
+2004,43,2. Married,1. White,3. Some College,2. Information,1. Yes,134.7053751189
+2009,38,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,311.9345688964
+2006,40,2. Married,1. White,3. Some College,1. Industrial,1. Yes,145.8051633746
+2006,54,2. Married,1. White,3. Some College,2. Information,1. Yes,91.6992261117
+2003,35,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,88.9296066368
+2004,61,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,113.5670895698
+2004,56,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2005,48,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,128.6804882206
+2006,37,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,78.392466801
+2004,49,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,139.1563253919
+2007,24,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,90.4819133566
+2009,42,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,128.6804882206
+2003,42,2. Married,3. Asian,3. Some College,1. Industrial,1. Yes,103.9024706032
+2008,45,2. Married,1. White,3. Some College,1. Industrial,2. No,117.1468169148
+2005,54,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,109.4898414522
+2007,49,5. Separated,1. White,3. Some College,2. Information,1. Yes,97.4932940454
+2003,55,2. Married,1. White,5. Advanced Degree,2. Information,2. No,268.2662920126
+2008,29,2. Married,4. Other,1. < HS Grad,2. Information,1. Yes,73.7757432747
+2005,31,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,123.0896998479
+2009,19,1. Never Married,2. Black,2. HS Grad,2. Information,2. No,73.7757432747
+2008,28,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2007,50,2. Married,1. White,4. College Grad,2. Information,1. Yes,127.1157438122
+2003,26,1. Never Married,1. White,1. < HS Grad,1. Industrial,1. Yes,73.7757432747
+2006,38,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,134.7053751189
+2009,20,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,76.8936025176
+2004,54,4. Divorced,1. White,1. < HS Grad,2. Information,2. No,65.1108537153
+2005,44,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,99.6894636985
+2005,26,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,84.045957654
+2007,33,2. Married,1. White,4. College Grad,2. Information,2. No,113.5670895698
+2005,32,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2009,49,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,145.1436011769
+2009,27,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,65.1108537153
+2004,48,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,278.9644666958
+2007,32,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2007,30,2. Married,1. White,3. Some College,2. Information,2. No,131.737801155
+2006,32,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,99.6894636985
+2003,19,1. Never Married,1. White,2. HS Grad,2. Information,2. No,54.5981500331
+2007,31,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2008,41,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,132.4878211261
+2008,32,,1. White,2. HS Grad,2. Information,1. Yes,125.5254984338
+2009,63,2. Married,2. Black,5. Advanced Degree,1. Industrial,2. No,91.6992261117
+2006,65,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,104.9215065337
+2003,50,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,121.0108265658
+2004,51,2. Married,1. White,3. Some College,1. Industrial,2. No,101.8243520757
+2006,55,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,127.1157438122
+2008,19,1. Never Married,1. White,3. Some College,1. Industrial,2. No,30.9237526934
+2009,40,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,163.5158639762
+2005,48,2. Married,1. White,3. Some College,1. Industrial,1. Yes,123.908567598
+2003,61,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,79.1280844956
+2008,70,2. Married,2. Black,3. Some College,2. Information,1. Yes,99.6894636985
+2003,37,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,94.0727147457
+2006,41,2. Married,3. Asian,2. HS Grad,1. Industrial,1. Yes,82.6796372966
+2003,53,2. Married,1. White,4. College Grad,2. Information,1. Yes,176.9896504899
+2004,60,1. Never Married,2. Black,1. < HS Grad,2. Information,1. Yes,77.0452008528
+2009,46,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,150.3306534958
+2003,30,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2004,36,1. Never Married,3. Asian,2. HS Grad,1. Industrial,2. No,72.1504556816
+2009,57,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,141.7751723332
+2008,34,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,76.8936025176
+2003,26,1. Never Married,4. Other,4. College Grad,2. Information,2. No,38.2235828218
+2004,39,2. Married,2. Black,2. HS Grad,2. Information,2. No,81.2832532843
+2005,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,92.8958447895
+2008,43,2. Married,1. White,4. College Grad,2. Information,1. Yes,196.1252725943
+2006,31,2. Married,1. White,2. HS Grad,2. Information,1. Yes,102.8702469332
+2008,30,2. Married,1. White,3. Some College,1. Industrial,1. Yes,95.230712567
+2006,62,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,279.5017819637
+2004,54,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,176.9896504899
+2009,42,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,198.3502904644
+2005,33,2. Married,1. White,3. Some College,2. Information,1. Yes,136.8763676352
+2003,20,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,76.8936025176
+2007,48,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2008,39,2. Married,1. White,2. HS Grad,1. Industrial,2. No,65.1108537153
+2006,30,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,105.3758926603
+2004,54,2. Married,1. White,2. HS Grad,2. Information,1. Yes,111.720849361
+2003,41,1. Never Married,3. Asian,3. Some College,2. Information,2. No,73.7757432747
+2004,49,2. Married,1. White,2. HS Grad,1. Industrial,2. No,95.230712567
+2009,30,1. Never Married,1. White,4. College Grad,1. Industrial,2. No,81.2832532843
+2004,34,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,90.4819133566
+2008,22,1. Never Married,1. White,4. College Grad,2. Information,2. No,76.283277854
+2006,32,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,73.7757432747
+2005,55,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,102.8702469332
+2006,32,1. Never Married,1. White,1. < HS Grad,2. Information,1. Yes,94.0727147457
+2005,39,2. Married,1. White,2. HS Grad,1. Industrial,2. No,295.9912499825
+2007,49,2. Married,1. White,2. HS Grad,2. Information,2. No,79.8549003093
+2006,26,2. Married,1. White,2. HS Grad,1. Industrial,2. No,75.0431540174
+2003,42,2. Married,1. White,3. Some College,2. Information,1. Yes,74.4446382014
+2007,45,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,148.4131591026
+2005,32,2. Married,1. White,2. HS Grad,2. Information,2. No,112.6488963421
+2003,37,2. Married,1. White,2. HS Grad,2. Information,1. Yes,106.9218140912
+2007,39,2. Married,4. Other,4. College Grad,2. Information,1. Yes,104.9215065337
+2006,31,2. Married,1. White,4. College Grad,2. Information,1. Yes,92.0363233011
+2004,51,2. Married,1. White,4. College Grad,2. Information,1. Yes,88.8315691738
+2003,50,5. Separated,1. White,2. HS Grad,2. Information,1. Yes,67.826787132
+2008,39,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,99.6894636985
+,40,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2005,33,1. Never Married,2. Black,1. < HS Grad,2. Information,1. Yes,87.9810327856
+2004,40,2. Married,3. Asian,1. < HS Grad,2. Information,,105.9278107751
+2006,41,2. Married,1. White,2. HS Grad,1. Industrial,2. No,127.1157438122
+2009,31,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,113.5670895698
+2004,43,1. Never Married,2. Black,3. Some College,1. Industrial,1. Yes,82.6796372966
+2003,34,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,148.4131591026
+2004,55,2. Married,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2007,47,2. Married,1. White,4. College Grad,1. Industrial,2. No,65.1108537153
+2006,59,1. Never Married,1. White,3. Some College,2. Information,1. Yes,117.1468169148
+2007,30,2. Married,1. White,2. HS Grad,1. Industrial,2. No,99.6894636985
+2005,46,2. Married,1. White,3. Some College,1. Industrial,1. Yes,100.7642728421
+2003,52,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,92.1611220323
+2007,40,1. Never Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,109.8339856422
+2008,48,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,200.5432623247
+2009,40,1. Never Married,2. Black,1. < HS Grad,2. Information,1. Yes,
+2006,47,2. Married,1. White,4. College Grad,2. Information,2. No,160.6424754083
+2003,23,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,54.5981500331
+2007,30,2. Married,2. Black,3. Some College,2. Information,2. No,121.4303138226
+2004,32,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,112.6488963421
+2009,31,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,166.3249412339
+2006,23,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,40.4056652597
+2004,46,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,190.5476785647
+2003,63,5. Separated,2. Black,2. HS Grad,2. Information,1. Yes,127.9012329791
+2005,57,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,70.8150386168
+2005,43,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,100.7642728421
+2009,46,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,74.4383046682
+2006,30,2. Married,1. White,2. HS Grad,1. Industrial,2. No,118.8843593399
+2007,38,2. Married,1. White,2. HS Grad,1. Industrial,2. No,89.492479518
+2007,32,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,66.9616443217
+2008,50,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,104.9215065337
+2008,57,2. Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2005,40,4. Divorced,1. White,1. < HS Grad,1. Industrial,2. No,65.1108537153
+2003,28,2. Married,4. Other,2. HS Grad,1. Industrial,2. No,87.9810327856
+2003,44,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,100.7642728421
+2003,42,2. Married,1. White,4. College Grad,2. Information,1. Yes,116.2653240625
+2004,31,2. Married,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2003,37,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,151.5914842398
+2004,35,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,75.355679318
+2008,60,2. Married,1. White,2. HS Grad,2. Information,2. No,95.6888119067
+2003,50,2. Married,1. White,4. College Grad,2. Information,1. Yes,115.2855169942
+2007,34,2. Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2009,49,1. Never Married,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2003,56,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,268.2662920126
+2003,30,1. Never Married,1. White,1. < HS Grad,2. Information,2. No,59.6286455537
+2008,55,2. Married,1. White,4. College Grad,2. Information,1. Yes,171.7651326275
+2008,53,2. Married,1. White,3. Some College,2. Information,2. No,179.5280921965
+2008,31,2. Married,1. White,3. Some College,1. Industrial,1. Yes,76.283277854
+2006,33,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,122.2636738928
+2006,49,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,112.6488963421
+2004,42,2. Married,2. Black,3. Some College,2. Information,1. Yes,111.720849361
+2007,48,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,97.4932940454
+2009,64,2. Married,1. White,4. College Grad,2. Information,1. Yes,133.9715000707
+2005,42,4. Divorced,1. White,3. Some College,2. Information,1. Yes,111.720849361
+2009,37,4. Divorced,1. White,4. College Grad,2. Information,2. No,118.8843593399
+2004,27,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,76.4884433977
+2008,40,2. Married,1. White,2. HS Grad,2. Information,1. Yes,90.4819133566
+2003,25,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,90.4819133566
+2005,34,2. Married,1. White,3. Some College,1. Industrial,2. No,68.7480877338
+2005,35,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,125.2042865803
+2004,42,2. Married,1. White,4. College Grad,2. Information,1. Yes,160.6424754083
+2004,42,2. Married,1. White,4. College Grad,1. Industrial,2. No,127.1157438122
+2003,50,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,134.7053751189
+2008,29,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,91.6992261117
+2007,24,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,85.383940379
+2004,39,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2008,62,2. Married,1. White,2. HS Grad,2. Information,1. Yes,127.1157438122
+2005,22,1. Never Married,1. White,3. Some College,2. Information,1. Yes,73.7757432747
+2006,51,2. Married,1. White,4. College Grad,2. Information,1. Yes,277.7994802057
+2009,53,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,54.5981500331
+2004,52,2. Married,1. White,3. Some College,2. Information,1. Yes,127.1157438122
+2006,30,2. Married,1. White,3. Some College,2. Information,1. Yes,130.9821773775
+2003,56,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,132.4878211261
+2004,62,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,91.6992261117
+2004,62,2. Married,1. White,3. Some College,2. Information,1. Yes,148.4131591026
+2003,40,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2005,33,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,144.9443649805
+2008,34,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2005,50,2. Married,1. White,2. HS Grad,1. Industrial,2. No,87.9810327856
+2009,32,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,75.355679318
+2003,53,2. Married,1. White,1. < HS Grad,2. Information,2. No,73.7757432747
+2007,54,2. Married,3. Asian,2. HS Grad,1. Industrial,2. No,79.8549003093
+2004,46,2. Married,1. White,4. College Grad,2. Information,1. Yes,104.9215065337
+2005,52,2. Married,2. Black,1. < HS Grad,2. Information,1. Yes,122.2636738928
+2003,23,2. Married,1. White,2. HS Grad,1. Industrial,2. No,87.9810327856
+2007,46,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,281.7459705519
+2008,49,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,160.6424754083
+2003,34,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,96.3706528322
+2007,51,2. Married,2. Black,4. College Grad,1. Industrial,2. No,97.4932940454
+2003,41,2. Married,1. White,3. Some College,1. Industrial,1. Yes,148.4131591026
+2007,52,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,81.2832532843
+2008,36,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,148.4131591026
+2004,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,272.2947832201
+2006,43,2. Married,1. White,2. HS Grad,2. Information,1. Yes,97.4932940454
+2004,40,1. Never Married,2. Black,5. Advanced Degree,2. Information,1. Yes,91.6992261117
+2008,44,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,123.908567598
+2003,44,2. Married,2. Black,4. College Grad,1. Industrial,1. Yes,87.9810327856
+2003,31,2. Married,2. Black,3. Some College,2. Information,2. No,139.7030715277
+2003,25,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,85.383940379
+2009,22,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,75.0431540174
+2007,22,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2004,41,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,154.8683672316
+2005,34,2. Married,1. White,4. College Grad,2. Information,1. Yes,128.6804882206
+2006,27,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,76.8936025176
+2008,61,2. Married,1. White,2. HS Grad,2. Information,1. Yes,106.6080214935
+2004,43,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,78.9816745163
+2007,51,2. Married,2. Black,5. Advanced Degree,2. Information,1. Yes,191.5736835484
+2003,51,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,148.4131591026
+2004,30,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,70.4760196469
+2004,59,3. Widowed,2. Black,5. Advanced Degree,2. Information,1. Yes,141.7751723332
+2005,39,2. Married,1. White,1. < HS Grad,2. Information,2. No,67.8625234114
+2007,27,2. Married,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2005,47,2. Married,1. White,3. Some College,2. Information,1. Yes,148.4131591026
+2004,50,2. Married,1. White,4. College Grad,2. Information,1. Yes,94.0727147457
+2005,61,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,148.4131591026
+2003,24,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,51.5219563147
+2007,32,1. Never Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,96.3706528322
+2005,50,5. Separated,1. White,2. HS Grad,2. Information,2. No,95.230712567
+2009,43,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,73.7757432747
+2003,43,4. Divorced,2. Black,4. College Grad,2. Information,1. Yes,104.9215065337
+2004,55,2. Married,1. White,3. Some College,2. Information,1. Yes,123.0896998479
+2004,30,2. Married,1. White,3. Some College,1. Industrial,2. No,118.8843593399
+2004,42,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,104.9215065337
+2009,27,1. Never Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,200.5432623247
+2005,39,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,130.9821773775
+2007,55,2. Married,1. White,3. Some College,2. Information,1. Yes,126.3238807098
+2007,22,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,70.6610476694
+2003,49,1. Never Married,1. White,4. College Grad,1. Industrial,2. No,130.9821773775
+2006,34,5. Separated,2. Black,2. HS Grad,2. Information,1. Yes,134.7053751189
+2005,48,1. Never Married,1. White,4. College Grad,2. Information,2. No,69.0108766221
+2007,26,2. Married,1. White,3. Some College,1. Industrial,1. Yes,93.486692043
+2006,40,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,103.9024706032
+2006,41,4. Divorced,1. White,1. < HS Grad,1. Industrial,1. Yes,118.01975334
+2005,23,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,65.1108537153
+2007,56,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,99.6894636985
+2005,34,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,107.9039238669
+2007,32,2. Married,1. White,3. Some College,2. Information,1. Yes,101.8243520757
+2003,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,191.5736835484
+2006,54,2. Married,1. White,2. HS Grad,2. Information,1. Yes,99.6894636985
+2008,39,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,68.7480877338
+2008,47,2. Married,1. White,4. College Grad,2. Information,1. Yes,276.7784133212
+2004,49,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,123.0896998479
+2003,42,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,101.8243520757
+2008,36,2. Married,1. White,2. HS Grad,1. Industrial,2. No,128.6804882206
+2009,26,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,97.4932940454
+2006,59,2. Married,2. Black,3. Some College,1. Industrial,2. No,73.7757432747
+2008,43,2. Married,1. White,2. HS Grad,1. Industrial,2. No,65.1108537153
+2006,29,1. Never Married,3. Asian,4. College Grad,1. Industrial,1. Yes,160.6424754083
+2005,62,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,80.5731997057
+2005,32,1. Never Married,1. White,3. Some College,2. Information,1. Yes,103.9024706032
+2006,51,2. Married,1. White,4. College Grad,2. Information,2. No,118.8843593399
+2005,45,2. Married,1. White,2. HS Grad,2. Information,1. Yes,87.9810327856
+2005,43,2. Married,1. White,3. Some College,1. Industrial,2. No,140.3982001619
+2006,39,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,148.4131591026
+2006,55,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2004,40,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,92.3000614283
+2004,28,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,97.4932940454
+,33,2. Married,1. White,4. College Grad,2. Information,1. Yes,100.0867423179
+2006,33,2. Married,2. Black,5. Advanced Degree,2. Information,1. Yes,117.1468169148
+2003,44,2. Married,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2008,42,1. Never Married,1. White,1. < HS Grad,1. Industrial,1. Yes,100.7642728421
+2007,42,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4144481956
+2003,37,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2005,35,4. Divorced,1. White,4. College Grad,2. Information,2. No,90.4819133566
+2003,32,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,143.1349408111
+2005,25,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,66.9616443217
+2004,59,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,256.4006495624
+2006,45,1. Never Married,1. White,2. HS Grad,2. Information,2. No,97.4932940454
+2004,47,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,160.6424754083
+2004,25,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,103.9024706032
+2007,60,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,118.8843593399
+2007,51,2. Married,1. White,3. Some College,1. Industrial,1. Yes,117.1468169148
+2007,45,2. Married,1. White,4. College Grad,2. Information,1. Yes,99.6894636985
+2005,43,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,141.7751723332
+2004,40,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,84.045957654
+2009,29,1. Never Married,3. Asian,4. College Grad,2. Information,2. No,99.6894636985
+2006,49,2. Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2004,27,4. Divorced,1. White,3. Some College,2. Information,1. Yes,112.1861228759
+2005,29,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457
+2009,47,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,92.8958447895
+2005,41,2. Married,1. White,3. Some College,2. Information,2. No,87.9810327856
+2006,57,2. Married,1. White,3. Some College,2. Information,1. Yes,107.9039238669
+2009,27,2. Married,1. White,4. College Grad,2. Information,1. Yes,80.5731997057
+2005,68,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2009,34,1. Never Married,1. White,3. Some College,2. Information,1. Yes,136.5176552224
+2008,39,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,73.7757432747
+2004,37,3. Widowed,1. White,4. College Grad,2. Information,1. Yes,127.1157438122
+2003,62,2. Married,1. White,4. College Grad,2. Information,1. Yes,169.8003422807
+2009,38,1. Never Married,1. White,3. Some College,1. Industrial,2. No,84.045957654
+2005,70,2. Married,1. White,4. College Grad,2. Information,2. No,50.3540016352
+2007,41,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,121.4303138226
+2004,45,2. Married,1. White,2. HS Grad,2. Information,1. Yes,106.1275821508
+2007,58,2. Married,1. White,3. Some College,1. Industrial,2. No,118.8843593399
+2004,48,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,73.7757432747
+2003,43,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2005,21,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,141.7751723332
+2004,57,2. Married,1. White,2. HS Grad,2. Information,1. Yes,65.1108537153
+2004,29,2. Married,1. White,3. Some College,1. Industrial,2. No,79.8549003093
+2008,39,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,95.230712567
+2006,54,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,115.3750385564
+2003,30,2. Married,1. White,3. Some College,2. Information,2. No,109.8339856422
+2006,47,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,89.2428846645
+2005,44,2. Married,1. White,3. Some College,2. Information,1. Yes,148.4131591026
+2004,48,1. Never Married,1. White,3. Some College,2. Information,1. Yes,107.9039238669
+2003,26,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,73.7757432747
+2003,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,82.6796372966
+2004,44,4. Divorced,2. Black,2. HS Grad,2. Information,1. Yes,79.8549003093
+2003,33,4. Divorced,1. White,1. < HS Grad,1. Industrial,1. Yes,76.8936025176
+2005,29,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,90.4819133566
+2006,39,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,123.0896998479
+2009,43,2. Married,1. White,2. HS Grad,1. Industrial,2. No,129.4536445766
+2006,43,2. Married,1. White,4. College Grad,2. Information,1. Yes,127.1157438122
+2003,47,2. Married,1. White,2. HS Grad,1. Industrial,2. No,54.5981500331
+2007,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.886080351
+2003,26,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,123.0896998479
+2003,60,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,138.2991269209
+2009,46,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,166.3249412339
+2006,50,2. Married,1. White,4. College Grad,1. Industrial,2. No,78.392466801
+2007,52,2. Married,1. White,3. Some College,1. Industrial,1. Yes,86.6951548289
+2005,27,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,145.8051633746
+2004,56,,2. Black,5. Advanced Degree,2. Information,1. Yes,141.7751723332
+2008,51,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,129.9836348189
+2005,52,2. Married,1. White,2. HS Grad,1. Industrial,2. No,109.8339856422
+2004,36,2. Married,1. White,2. HS Grad,1. Industrial,2. No,128.6804882206
+2009,27,1. Never Married,1. White,4. College Grad,2. Information,2. No,81.2832532843
+2003,46,2. Married,1. White,2. HS Grad,1. Industrial,2. No,49.5553381215
+2004,54,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,109.8339856422
+2004,59,2. Married,,5. Advanced Degree,2. Information,2. No,189.2441629328
+2009,29,1. Never Married,1. White,5. Advanced Degree,2. Information,2. No,73.7757432747
+2003,25,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,79.8549003093
+2008,45,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,70.4760196469
+2005,40,2. Married,1. White,3. Some College,2. Information,1. Yes,91.6992261117
+2005,44,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,70.4760196469
+2008,44,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,125.123815722
+2006,41,2. Married,3. Asian,1. < HS Grad,1. Industrial,1. Yes,89.492479518
+2008,50,2. Married,1. White,2. HS Grad,1. Industrial,2. No,176.9896504899
+2009,43,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,123.0896998479
+2005,59,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,104.9215065337
+2003,53,2. Married,2. Black,3. Some College,2. Information,2. No,99.6894636985
+2003,46,2. Married,1. White,4. College Grad,1. Industrial,2. No,90.4819133566
+2007,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,141.7751723332
+2006,38,2. Married,1. White,4. College Grad,2. Information,1. Yes,164.6469889303
+2006,33,1. Never Married,1. White,3. Some College,2. Information,1. Yes,82.6796372966
+2008,34,2. Married,2. Black,1. < HS Grad,2. Information,1. Yes,74.4129635129
+2007,63,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,100.0134869247
+2006,61,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2005,40,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,141.7751723332
+2009,49,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,175.9329977024
+2006,25,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,66.2294082944
+2007,53,2. Married,1. White,3. Some College,1. Industrial,2. No,148.4131591026
+2004,34,2. Married,1. White,2. HS Grad,2. Information,1. Yes,82.6796372966
+2007,34,1. Never Married,1. White,3. Some College,2. Information,1. Yes,96.934090457
+2005,48,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,138.2991269209
+2009,65,2. Married,1. White,2. HS Grad,2. Information,1. Yes,118.8843593399
+2004,58,2. Married,1. White,3. Some College,1. Industrial,1. Yes,148.4131591026
+2007,61,2. Married,1. White,4. College Grad,2. Information,1. Yes,145.1436011769
+2007,39,2. Married,1. White,3. Some College,2. Information,1. Yes,116.2653240625
+2003,48,2. Married,1. White,3. Some College,1. Industrial,2. No,118.8843593399
+2008,44,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,76.4058510655
+2003,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,179.5280921965
+2004,50,2. Married,1. White,3. Some College,1. Industrial,1. Yes,141.7751723332
+2007,61,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,114.4757132903
+2005,48,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,152.2168068271
+2007,63,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,200.5432623247
+2007,43,2. Married,1. White,2. HS Grad,1. Industrial,2. No,119.4052043224
+2006,35,2. Married,1. White,3. Some College,1. Industrial,1. Yes,114.4757132903
+2005,40,2. Married,1. White,2. HS Grad,1. Industrial,2. No,117.1468169148
+2009,26,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,86.6951548289
+2004,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,200.5432623247
+2006,41,1. Never Married,2. Black,3. Some College,1. Industrial,2. No,73.7757432747
+2005,60,2. Married,1. White,3. Some College,2. Information,1. Yes,277.601417511
+2008,48,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,115.3750385564
+2009,44,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,87.9810327856
+2008,30,5. Separated,1. White,2. HS Grad,2. Information,1. Yes,79.8549003093
+2008,49,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,94.0727147457
+2008,39,2. Married,1. White,2. HS Grad,2. Information,1. Yes,111.720849361
+2003,45,2. Married,1. White,3. Some College,2. Information,1. Yes,127.1157438122
+2005,31,1. Never Married,1. White,4. College Grad,2. Information,2. No,94.0727147457
+2007,27,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,82.6796372966
+2009,36,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2005,30,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,87.9810327856
+2009,28,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,97.4932940454
+2009,31,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,127.1157438122
+2006,57,2. Married,1. White,4. College Grad,2. Information,1. Yes,123.0896998479
+2003,34,2. Married,2. Black,3. Some College,,2. No,91.6992261117
+2004,53,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2004,54,4. Divorced,2. Black,4. College Grad,1. Industrial,1. Yes,127.1157438122
+2003,48,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,91.6992261117
+2007,54,4. Divorced,1. White,5. Advanced Degree,2. Information,2. No,118.8843593399
+2005,44,5. Separated,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2005,36,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,140.051197617
+2005,65,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,95.6888119067
+2008,47,2. Married,1. White,2. HS Grad,2. Information,1. Yes,87.9810327856
+2005,31,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,80.5731997057
+2008,53,2. Married,1. White,2. HS Grad,1. Industrial,2. No,107.9039238669
+2006,48,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,123.0896998479
+2004,45,2. Married,1. White,3. Some College,2. Information,1. Yes,106.9218140912
+2003,40,2. Married,2. Black,4. College Grad,1. Industrial,1. Yes,136.1577108372
+2009,40,5. Separated,1. White,2. HS Grad,2. Information,1. Yes,107.3160631578
+2007,23,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.226746312
+2006,32,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2005,19,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,70.4760196469
+2004,24,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,43.735111678
+2007,40,2. Married,2. Black,1. < HS Grad,2. Information,2. No,70.4760196469
+2005,46,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,85.383940379
+2004,51,2. Married,1. White,4. College Grad,2. Information,2. No,110.7826502763
+2003,37,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2009,36,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,138.2991269209
+2007,45,2. Married,1. White,2. HS Grad,1. Industrial,2. No,130.9821773775
+2008,42,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,176.9896504899
+2004,27,1. Never Married,1. White,1. < HS Grad,2. Information,2. No,84.045957654
+2008,43,4. Divorced,1. White,4. College Grad,1. Industrial,1. Yes,73.7757432747
+2009,64,2. Married,1. White,2. HS Grad,2. Information,1. Yes,114.4757132903
+2005,25,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,81.2832532843
+2008,47,1. Never Married,2. Black,5. Advanced Degree,2. Information,1. Yes,141.7751723332
+2004,27,1. Never Married,1. White,4. College Grad,2. Information,2. No,54.5981500331
+2003,58,2. Married,1. White,2. HS Grad,2. Information,1. Yes,109.8339856422
+2003,42,2. Married,1. White,2. HS Grad,1. Industrial,2. No,85.383940379
+2008,40,2. Married,1. White,3. Some College,2. Information,1. Yes,87.9810327856
+2004,51,4. Divorced,1. White,4. College Grad,1. Industrial,1. Yes,138.2991269209
+2009,59,2. Married,1. White,3. Some College,2. Information,2. No,267.9010868553
+2003,37,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,196.1252725943
+2009,29,2. Married,1. White,4. College Grad,2. Information,2. No,137.5901427665
+2004,55,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,89.492479518
+2007,38,4. Divorced,2. Black,4. College Grad,2. Information,1. Yes,104.9215065337
+2008,33,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,276.7784133212
+2005,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,78.392466801
+2005,51,2. Married,1. White,4. College Grad,1. Industrial,2. No,127.1157438122
+2003,45,2. Married,1. White,4. College Grad,2. Information,1. Yes,99.6894636985
+2009,48,2. Married,2. Black,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2004,22,1. Never Married,1. White,4. College Grad,1. Industrial,2. No,66.0446942318
+2003,41,1. Never Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,92.8958447895
+2007,62,2. Married,1. White,4. College Grad,2. Information,2. No,130.9821773775
+2004,55,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,195.6763079905
+2006,62,2. Married,1. White,3. Some College,1. Industrial,1. Yes,128.6804882206
+2004,44,1. Never Married,2. Black,4. College Grad,2. Information,1. Yes,90.4819133566
+2005,41,4. Divorced,2. Black,2. HS Grad,2. Information,1. Yes,118.8843593399
+2004,33,2. Married,1. White,1. < HS Grad,2. Information,2. No,20.9343779401
+2003,49,1. Never Married,1. White,5. Advanced Degree,1. Industrial,2. No,143.1349408111
+2004,51,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,81.2832532843
+2003,49,4. Divorced,1. White,3. Some College,2. Information,2. No,176.9896504899
+2009,27,1. Never Married,3. Asian,4. College Grad,2. Information,1. Yes,99.6894636985
+2006,24,1. Never Married,1. White,3. Some College,1. Industrial,2. No,118.8843593399
+2007,52,2. Married,1. White,3. Some College,2. Information,1. Yes,114.4757132903
+2003,44,2. Married,3. Asian,2. HS Grad,2. Information,1. Yes,112.6488963421
+2008,53,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,134.7053751189
+2006,28,1. Never Married,1. White,3. Some College,2. Information,1. Yes,104.9215065337
+2003,54,2. Married,1. White,3. Some College,1. Industrial,1. Yes,148.4131591026
+2008,44,2. Married,1. White,3. Some College,2. Information,1. Yes,141.7751723332
+2003,46,2. Married,1. White,3. Some College,1. Industrial,1. Yes,106.7239776253
+2004,39,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,95.230712567
+2004,32,2. Married,1. White,3. Some College,1. Industrial,1. Yes,115.1062016913
+2005,42,5. Separated,1. White,2. HS Grad,1. Industrial,1. Yes,91.6026156625
+2004,39,2. Married,1. White,3. Some College,2. Information,1. Yes,91.6992261117
+2003,28,2. Married,1. White,4. College Grad,2. Information,2. No,95.230712567
+2003,28,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,87.9810327856
+2006,24,1. Never Married,3. Asian,4. College Grad,1. Industrial,1. Yes,109.8339856422
+2005,45,4. Divorced,2. Black,2. HS Grad,2. Information,2. No,73.7757432747
+2003,40,2. Married,4. Other,3. Some College,2. Information,1. Yes,118.8843593399
+2006,23,1. Never Married,1. White,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2006,56,2. Married,1. White,4. College Grad,2. Information,2. No,124.7204462429
+2008,53,4. Divorced,1. White,5. Advanced Degree,1. Industrial,1. Yes,176.9896504899
+2008,56,1. Never Married,1. White,1. < HS Grad,2. Information,2. No,81.2832532843
+2003,39,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,134.7053751189
+2007,25,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,104.9215065337
+2009,58,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,114.4757132903
+2008,36,2. Married,1. White,3. Some College,1. Industrial,1. Yes,107.9039238669
+2009,45,2. Married,1. White,2. HS Grad,2. Information,1. Yes,98.5993438604
+2009,47,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,109.8339856422
+2009,57,2. Married,1. White,3. Some College,1. Industrial,1. Yes,95.230712567
+2009,39,2. Married,1. White,4. College Grad,2. Information,1. Yes,144.4780876654
+2004,73,4. Divorced,2. Black,1. < HS Grad,1. Industrial,1. Yes,92.8958447895
+2009,57,2. Married,1. White,5. Advanced Degree,2. Information,2. No,109.8339856422
+2009,54,2. Married,3. Asian,1. < HS Grad,1. Industrial,2. No,73.7757432747
+2008,37,2. Married,1. White,4. College Grad,2. Information,1. Yes,121.4303138226
+2009,48,2. Married,1. White,2. HS Grad,2. Information,1. Yes,118.8843593399
+2006,25,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2007,55,2. Married,2. Black,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2009,52,5. Separated,2. Black,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2005,41,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,149.0558955894
+2009,31,2. Married,1. White,4. College Grad,2. Information,1. Yes,133.3806076614
+2006,64,2. Married,1. White,2. HS Grad,2. Information,1. Yes,95.230712567
+2007,48,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,70.4760196469
+2008,39,2. Married,1. White,3. Some College,2. Information,1. Yes,103.9024706032
+2006,41,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,119.0133452374
+2007,51,2. Married,4. Other,3. Some College,1. Industrial,1. Yes,139.0034080595
+2003,64,2. Married,1. White,4. College Grad,2. Information,2. No,107.9039238669
+2003,48,2. Married,1. White,2. HS Grad,2. Information,1. Yes,84.5294690249
+2005,24,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,109.8339856422
+2004,45,2. Married,1. White,3. Some College,2. Information,2. No,99.6894636985
+2003,44,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,160.6424754083
+2008,44,2. Married,1. White,2. HS Grad,1. Industrial,2. No,65.1108537153
+2007,44,2. Married,1. White,4. College Grad,2. Information,1. Yes,166.3249412339
+2008,43,2. Married,1. White,2. HS Grad,2. Information,1. Yes,49.5553381215
+2006,32,1. Never Married,2. Black,2. HS Grad,1. Industrial,2. No,94.0727147457
+2007,57,2. Married,1. White,4. College Grad,2. Information,1. Yes,125.5254984338
+2003,50,2. Married,1. White,2. HS Grad,2. Information,1. Yes,141.0888743913
+2004,38,2. Married,1. White,3. Some College,2. Information,1. Yes,176.9896504899
+2008,,2. Married,1. White,3. Some College,1. Industrial,1. Yes,145.1436011769
+2009,53,2. Married,1. White,4. College Grad,2. Information,1. Yes,141.7751723332
+2006,39,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,112.1369229922
+2004,25,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,90.4819133566
+2007,60,2. Married,1. White,2. HS Grad,2. Information,1. Yes,101.8243520757
+2003,48,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,133.2323508266
+2007,59,2. Married,1. White,3. Some College,2. Information,1. Yes,96.3706528322
+2003,40,2. Married,1. White,4. College Grad,2. Information,1. Yes,268.2662920126
+2007,23,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,73.4544282608
+2009,38,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,176.9896504899
+2009,42,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,112.6488963421
+2004,21,1. Never Married,1. White,2. HS Grad,2. Information,2. No,55.7673905085
+2007,51,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,126.08505729
+2008,56,2. Married,1. White,4. College Grad,1. Industrial,2. No,134.7053751189
+2004,27,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,99.6894636985
+2003,62,2. Married,1. White,3. Some College,2. Information,2. No,25.2910080971
+2005,50,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,182.0206209635
+2005,48,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,277.601417511
+2006,50,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,123.0896998479
+2004,37,2. Married,1. White,3. Some College,2. Information,1. Yes,176.9896504899
+2003,26,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,94.0727147457
+2008,23,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,73.7757432747
+2008,43,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,104.9215065337
+2006,35,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,91.093218469
+2008,30,1. Never Married,2. Black,3. Some College,2. Information,2. No,69.7915308454
+2007,19,1. Never Married,1. White,3. Some College,1. Industrial,2. No,41.4412130349
+2006,63,2. Married,1. White,3. Some College,2. Information,1. Yes,125.5254984338
+2006,19,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,76.8936025176
+2009,21,1. Never Married,1. White,3. Some College,1. Industrial,2. No,49.5553381215
+2007,35,2. Married,1. White,5. Advanced Degree,2. Information,2. No,94.0727147457
+2005,51,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,78.2145756932
+2003,33,2. Married,1. White,2. HS Grad,2. Information,2. No,104.9215065337
+2007,36,2. Married,1. White,2. HS Grad,2. Information,1. Yes,127.1157438122
+2005,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2006,41,1. Never Married,1. White,3. Some College,2. Information,1. Yes,114.4757132903
+2005,42,2. Married,1. White,3. Some College,2. Information,1. Yes,134.7053751189
+2005,23,1. Never Married,4. Other,2. HS Grad,2. Information,2. No,73.7757432747
+2004,58,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,75.0431540174
+2008,60,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,104.9215065337
+2007,45,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,163.5158639762
+2003,38,1. Never Married,2. Black,1. < HS Grad,1. Industrial,1. Yes,94.0727147457
+2009,63,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,110.7826502763
+2009,54,2. Married,3. Asian,3. Some College,2. Information,1. Yes,134.7053751189
+2003,43,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,130.6022275203
+2009,37,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,267.9010868553
+2009,61,1. Never Married,1. White,2. HS Grad,2. Information,2. No,65.1108537153
+2006,26,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,95.230712567
+2006,29,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2008,50,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,85.383940379
+2006,40,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,166.3249412339
+2009,46,2. Married,1. White,3. Some College,2. Information,1. Yes,169.0735400494
+2003,58,2. Married,1. White,3. Some College,1. Industrial,1. Yes,130.9821773775
+2008,45,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,200.5432623247
+2004,51,2. Married,1. White,3. Some College,1. Industrial,2. No,90.4819133566
+2006,49,2. Married,1. White,3. Some College,1. Industrial,1. Yes,123.908567598
+2009,50,2. Married,1. White,2. HS Grad,2. Information,1. Yes,87.9810327856
+2007,29,1. Never Married,1. White,3. Some College,2. Information,1. Yes,103.9024706032
+2008,53,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,128.2526610966
+2004,37,2. Married,1. White,4. College Grad,2. Information,1. Yes,148.4131591026
+2003,25,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,86.6951548289
+2003,22,1. Never Married,1. White,3. Some College,1. Industrial,2. No,34.6074177301
+2005,62,2. Married,1. White,4. College Grad,2. Information,2. No,99.6894636985
+2009,27,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,96.8667032433
+2006,41,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,277.7994802057
+2006,49,2. Married,1. White,5. Advanced Degree,2. Information,2. No,138.2991269209
+2005,24,1. Never Married,1. White,2. HS Grad,2. Information,2. No,73.7757432747
+2007,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,99.6894636985
+2008,23,2. Married,1. White,4. College Grad,1. Industrial,2. No,36.6737041961
+2003,69,2. Married,2. Black,1. < HS Grad,2. Information,1. Yes,114.4757132903
+2006,41,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2008,27,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,102.4535575784
+2004,32,2. Married,1. White,2. HS Grad,2. Information,1. Yes,70.8150386168
+2005,55,2. Married,1. White,4. College Grad,2. Information,1. Yes,160.6424754083
+2005,59,2. Married,1. White,2. HS Grad,2. Information,2. No,104.9215065337
+2006,43,1. Never Married,2. Black,5. Advanced Degree,1. Industrial,1. Yes,119.7408512962
+2003,30,2. Married,1. White,2. HS Grad,1. Industrial,2. No,63.1888610037
+2003,80,2. Married,1. White,2. HS Grad,2. Information,1. Yes,79.8549003093
+2008,33,2. Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2009,54,2. Married,1. White,2. HS Grad,2. Information,1. Yes,134.7053751189
+2009,53,2. Married,1. White,2. HS Grad,2. Information,1. Yes,107.9039238669
+2005,29,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,115.3750385564
+2005,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,116.2653240625
+2009,70,2. Married,3. Asian,5. Advanced Degree,2. Information,2. No,127.9012329791
+2003,37,2. Married,1. White,2. HS Grad,1. Industrial,2. No,118.01975334
+2008,30,2. Married,3. Asian,2. HS Grad,2. Information,2. No,59.0970640816
+2006,36,2. Married,1. White,3. Some College,2. Information,2. No,83.3213415448
+2006,32,1. Never Married,1. White,3. Some College,2. Information,1. Yes,100.7642728421
+2009,75,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,85.383940379
+2007,47,2. Married,3. Asian,4. College Grad,2. Information,2. No,105.9278107751
+2004,44,4. Divorced,1. White,5. Advanced Degree,2. Information,1. Yes,120.5894365304
+2004,40,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,99.6894636985
+2006,28,1. Never Married,2. Black,3. Some College,1. Industrial,1. Yes,109.8339856422
+2003,60,4. Divorced,1. White,4. College Grad,2. Information,2. No,85.383940379
+2005,54,2. Married,1. White,4. College Grad,2. Information,1. Yes,170.1568344178
+2008,56,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,141.7751723332
+2005,34,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,147.11668916
+2003,29,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,87.9810327856
+2007,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,82.6796372966
+2004,37,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,57.4636470385
+2006,58,2. Married,1. White,2. HS Grad,1. Industrial,2. No,79.8549003093
+2006,39,2. Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2008,52,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,136.8763676352
+2004,53,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,118.8843593399
+2004,43,2. Married,2. Black,1. < HS Grad,2. Information,1. Yes,79.8549003093
+2008,40,2. Married,1. White,3. Some College,1. Industrial,1. Yes,154.6852929956
+2009,45,2. Married,1. White,4. College Grad,1. Industrial,2. No,127.1157438122
+2005,67,4. Divorced,1. White,4. College Grad,2. Information,2. No,76.8936025176
+2005,40,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,130.9821773775
+2009,24,1. Never Married,1. White,2. HS Grad,2. Information,2. No,66.2294082944
+2003,31,2. Married,1. White,4. College Grad,1. Industrial,2. No,87.9810327856
+2005,40,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2004,34,2. Married,1. White,3. Some College,1. Industrial,2. No,145.1436011769
+2004,34,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2003,44,1. Never Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,130.9821773775
+2004,50,2. Married,1. White,2. HS Grad,2. Information,1. Yes,79.8549003093
+2007,38,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,62.3983547206
+2003,48,2. Married,1. White,2. HS Grad,2. Information,2. No,70.4760196469
+2004,24,1. Never Married,1. White,3. Some College,2. Information,2. No,59.0970640816
+2003,38,2. Married,1. White,3. Some College,2. Information,1. Yes,94.0727147457
+2009,35,2. Married,1. White,3. Some College,1. Industrial,1. Yes,137.4812478317
+2003,63,4. Divorced,2. Black,3. Some College,1. Industrial,1. Yes,64.2743972206
+2007,29,2. Married,1. White,2. HS Grad,1. Industrial,2. No,89.492479518
+2007,52,2. Married,1. White,3. Some College,2. Information,1. Yes,149.0558955894
+2009,37,2. Married,1. White,4. College Grad,2. Information,1. Yes,123.0896998479
+2006,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,103.9024706032
+2008,53,2. Married,1. White,3. Some College,1. Industrial,2. No,105.9278107751
+2004,40,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,171.7651326275
+2003,50,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,120.5894365304
+2006,35,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,114.4757132903
+2007,53,2. Married,1. White,2. HS Grad,1. Industrial,2. No,133.2323508266
+2008,57,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,110.7826502763
+2004,44,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,123.0896998479
+2009,59,2. Married,2. Black,3. Some College,2. Information,2. No,87.9810327856
+2007,33,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,167.9811282028
+2007,37,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,123.0896998479
+2004,26,1. Never Married,1. White,4. College Grad,1. Industrial,2. No,82.6796372966
+2003,25,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,81.2832532843
+2007,42,2. Married,1. White,3. Some College,2. Information,2. No,95.6888119067
+2009,35,2. Married,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2009,58,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2009,39,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,156.5035108826
+2003,60,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,
+2003,30,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,200.5432623247
+2004,35,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2008,47,2. Married,3. Asian,4. College Grad,1. Industrial,2. No,87.9810327856
+2004,73,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,75.355679318
+2003,36,2. Married,1. White,2. HS Grad,1. Industrial,2. No,115.3750385564
+2009,60,2. Married,1. White,5. Advanced Degree,2. Information,2. No,138.2991269209
+2004,49,1. Never Married,4. Other,1. < HS Grad,1. Industrial,1. Yes,87.9810327856
+2009,62,2. Married,2. Black,4. College Grad,2. Information,1. Yes,118.8843593399
+,44,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,102.8702469332
+2008,52,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,176.9896504899
+2009,58,2. Married,1. White,2. HS Grad,2. Information,2. No,32.3664131749
+2004,36,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,131.737801155
+2008,38,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,89.492479518
+2008,39,2. Married,1. White,2. HS Grad,2. Information,2. No,99.6894636985
+2004,53,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,127.1157438122
+2004,40,2. Married,1. White,3. Some College,1. Industrial,2. No,73.7757432747
+2007,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,166.3249412339
+2008,57,2. Married,1. White,2. HS Grad,1. Industrial,2. No,116.2653240625
+2004,44,1. Never Married,1. White,3. Some College,2. Information,1. Yes,117.1468169148
+2005,52,2. Married,1. White,2. HS Grad,2. Information,2. No,100.7642728421
+2009,55,2. Married,1. White,4. College Grad,2. Information,1. Yes,141.7751723332
+2007,47,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,85.383940379
+2009,56,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2006,47,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,182.0206209635
+2007,54,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,101.8243520757
+2003,60,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,104.9215065337
+2007,41,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,110.7826502763
+2004,34,2. Married,1. White,3. Some College,1. Industrial,1. Yes,81.2832532843
+2008,40,2. Married,1. White,5. Advanced Degree,2. Information,,160.6424754083
+2005,30,2. Married,2. Black,3. Some College,1. Industrial,2. No,104.9215065337
+2005,52,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2006,56,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,71.6867436659
+2003,24,1. Never Married,1. White,4. College Grad,2. Information,2. No,99.6894636985
+2003,32,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,114.1133945101
+2003,52,2. Married,1. White,4. College Grad,1. Industrial,2. No,72.1504556816
+2008,41,2. Married,1. White,4. College Grad,2. Information,1. Yes,176.9896504899
+2004,20,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,65.1108537153
+2006,31,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,43.735111678
+2006,30,2. Married,1. White,3. Some College,1. Industrial,2. No,118.8843593399
+2004,45,2. Married,1. White,4. College Grad,2. Information,1. Yes,123.0896998479
+2005,45,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,200.5432623247
+2003,61,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,148.4131591026
+2004,29,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,86.6951548289
+2005,41,2. Married,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457
+2008,27,2. Married,1. White,3. Some College,2. Information,1. Yes,100.7642728421
+2008,36,2. Married,1. White,2. HS Grad,2. Information,2. No,54.5981500331
+2006,45,2. Married,1. White,4. College Grad,2. Information,1. Yes,116.2653240625
+2005,53,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,114.4757132903
+2003,29,2. Married,3. Asian,2. HS Grad,1. Industrial,1. Yes,95.230712567
+2008,30,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,138.2991269209
+2003,62,3. Widowed,1. White,1. < HS Grad,1. Industrial,2. No,62.0303046061
+2003,42,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,56.9055391447
+2007,50,2. Married,1. White,4. College Grad,2. Information,1. Yes,144.2047388929
+2005,34,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,82.6796372966
+2009,41,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,114.4757132903
+2006,60,2. Married,1. White,3. Some College,1. Industrial,1. Yes,96.0316570194
+2006,26,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2004,31,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,84.045957654
+2009,25,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,76.8936025176
+2003,33,4. Divorced,1. White,5. Advanced Degree,2. Information,1. Yes,120.5894365304
+2004,40,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,131.737801155
+2008,58,5. Separated,1. White,1. < HS Grad,1. Industrial,1. Yes,99.6894636985
+2009,56,2. Married,1. White,3. Some College,1. Industrial,1. Yes,140.3982001619
+2004,38,2. Married,1. White,4. College Grad,2. Information,1. Yes,102.8702469332
+2004,44,2. Married,1. White,2. HS Grad,2. Information,1. Yes,109.8339856422
+2008,50,2. Married,1. White,4. College Grad,2. Information,1. Yes,148.4131591026
+2003,33,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,62.9136549692
+2007,46,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,281.7459705519
+2003,51,5. Separated,1. White,2. HS Grad,1. Industrial,1. Yes,148.4131591026
+2007,25,1. Never Married,4. Other,2. HS Grad,1. Industrial,1. Yes,92.8958447895
+2003,40,2. Married,1. White,2. HS Grad,1. Industrial,2. No,118.8843593399
+2004,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2004,28,1. Never Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,117.1468169148
+2007,48,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,111.720849361
+2005,35,2. Married,1. White,2. HS Grad,2. Information,1. Yes,86.0428011302
+2008,44,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,148.4131591026
+2009,55,2. Married,1. White,1. < HS Grad,2. Information,2. No,79.8549003093
+2004,45,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,154.6852929956
+2008,55,2. Married,1. White,4. College Grad,1. Industrial,2. No,127.1157438122
+2008,48,2. Married,1. White,4. College Grad,2. Information,1. Yes,128.6804882206
+2005,,2. Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2004,54,4. Divorced,1. White,4. College Grad,1. Industrial,2. No,87.9810327856
+2005,40,2. Married,1. White,3. Some College,2. Information,1. Yes,133.2323508266
+2006,35,1. Never Married,1. White,3. Some College,1. Industrial,2. No,59.0970640816
+2007,27,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2003,36,5. Separated,,3. Some College,2. Information,2. No,91.6992261117
+2008,55,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,109.8339856422
+2005,50,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,75.0431540174
+2009,30,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,125.5254984338
+2004,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,84.3911147478
+2006,51,2. Married,1. White,4. College Grad,2. Information,1. Yes,130.9821773775
+2007,36,2. Married,1. White,3. Some College,1. Industrial,1. Yes,145.1436011769
+2006,34,1. Never Married,2. Black,5. Advanced Degree,2. Information,1. Yes,309.5717712662
+2003,40,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,141.7751723332
+2003,58,2. Married,1. White,2. HS Grad,1. Industrial,2. No,104.9215065337
+2007,41,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,114.4757132903
+2004,30,2. Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2006,31,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,81.2832532843
+2006,29,2. Married,1. White,3. Some College,2. Information,1. Yes,95.230712567
+2004,24,1. Never Married,2. Black,2. HS Grad,2. Information,1. Yes,75.355679318
+2007,43,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,82.6796372966
+2006,52,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,127.9012329791
+2008,21,2. Married,4. Other,2. HS Grad,1. Industrial,2. No,54.5981500331
+2005,34,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,109.8339856422
+2004,45,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,272.2947832201
+2004,53,3. Widowed,1. White,2. HS Grad,1. Industrial,1. Yes,117.1468169148
+2008,45,2. Married,1. White,2. HS Grad,2. Information,2. No,84.045957654
+2006,52,2. Married,1. White,2. HS Grad,1. Industrial,2. No,101.8243520757
+2006,36,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,277.7994802057
+,28,2. Married,1. White,3. Some College,1. Industrial,,103.9024706032
+2008,51,2. Married,1. White,2. HS Grad,2. Information,1. Yes,105.9278107751
+2005,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,134.7053751189
+2004,32,2. Married,1. White,4. College Grad,2. Information,1. Yes,109.3556264003
+2006,32,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,87.9810327856
+2005,56,2. Married,3. Asian,3. Some College,2. Information,1. Yes,81.9853178345
+2006,58,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,149.6950420685
+2007,47,2. Married,2. Black,4. College Grad,2. Information,1. Yes,73.7757432747
+2007,48,2. Married,1. White,4. College Grad,2. Information,1. Yes,104.9215065337
+2005,33,1. Never Married,1. White,3. Some College,2. Information,2. No,96.3706528322
+2004,39,1. Never Married,1. White,5. Advanced Degree,2. Information,2. No,81.2832532843
+2009,44,2. Married,1. White,4. College Grad,2. Information,1. Yes,141.7751723332
+2005,38,2. Married,1. White,3. Some College,1. Industrial,1. Yes,141.7751723332
+2009,29,2. Married,1. White,4. College Grad,2. Information,1. Yes,112.6488963421
+2009,35,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,148.4131591026
+2005,43,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,
+2003,59,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,118.8843593399
+2007,28,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.6429681403
+2003,38,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,81.2832532843
+2009,71,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,98.5993438604
+2008,41,2. Married,1. White,3. Some College,2. Information,1. Yes,121.4303138226
+2006,45,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,196.1252725943
+2009,27,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,122.2636738928
+2005,40,2. Married,1. White,3. Some College,1. Industrial,1. Yes,154.6852929956
+2008,57,2. Married,1. White,4. College Grad,2. Information,1. Yes,118.8843593399
+2005,51,2. Married,1. White,2. HS Grad,2. Information,1. Yes,124.7204462429
+2008,34,2. Married,2. Black,4. College Grad,2. Information,2. No,123.0896998479
+2006,55,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,173.87949331
+2008,23,1. Never Married,1. White,3. Some College,2. Information,2. No,27.1405792079
+2008,58,2. Married,1. White,3. Some College,2. Information,1. Yes,123.0896998479
+2004,54,4. Divorced,1. White,3. Some College,1. Industrial,2. No,104.9215065337
+2005,33,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2006,23,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,65.1108537153
+2005,50,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,89.492479518
+2006,54,2. Married,2. Black,2. HS Grad,2. Information,2. No,89.492479518
+2004,33,2. Married,1. White,4. College Grad,2. Information,1. Yes,127.1157438122
+2006,44,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,132.4878211261
+2008,57,2. Married,4. Other,1. < HS Grad,1. Industrial,2. No,94.0727147457
+2007,40,2. Married,1. White,3. Some College,2. Information,2. No,82.6796372966
+2005,27,2. Married,1. White,3. Some College,1. Industrial,1. Yes,101.402052303
+2004,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2004,28,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,96.934090457
+2003,27,2. Married,1. White,2. HS Grad,2. Information,1. Yes,85.383940379
+2004,39,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2003,30,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,53.0275511165
+2003,63,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,123.0896998479
+2009,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,114.4775211325
+2006,32,1. Never Married,1. White,4. College Grad,1. Industrial,2. No,49.5553381215
+2009,23,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,85.383940379
+2003,48,1. Never Married,2. Black,2. HS Grad,2. Information,1. Yes,87.9810327856
+2005,40,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,65.1108537153
+2003,31,2. Married,1. White,4. College Grad,1. Industrial,2. No,81.2832532843
+2003,37,1. Never Married,3. Asian,4. College Grad,1. Industrial,2. No,82.6796372966
+2004,50,2. Married,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2007,54,2. Married,3. Asian,1. < HS Grad,1. Industrial,2. No,65.1108537153
+2006,59,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,200.5432623247
+2008,28,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,178.5330503802
+2004,56,2. Married,1. White,2. HS Grad,2. Information,1. Yes,102.1270009146
+2004,40,2. Married,1. White,3. Some College,1. Industrial,1. Yes,141.7751723332
+2003,42,2. Married,1. White,5. Advanced Degree,2. Information,2. No,123.908567598
+2005,46,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,66.9616443217
+2009,28,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,66.2294082944
+2005,50,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,182.0206209635
+2003,42,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,141.7751723332
+2009,62,2. Married,1. White,2. HS Grad,2. Information,2. No,78.9816745163
+2006,60,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,128.6804882206
+2008,34,2. Married,1. White,2. HS Grad,1. Industrial,2. No,107.9039238669
+2004,34,2. Married,1. White,2. HS Grad,2. Information,2. No,99.6894636985
+2005,59,2. Married,1. White,2. HS Grad,2. Information,2. No,81.2832532843
+2009,47,5. Separated,1. White,2. HS Grad,1. Industrial,2. No,111.720849361
+2009,55,2. Married,1. White,4. College Grad,2. Information,1. Yes,98.5993438604
+2009,29,2. Married,1. White,2. HS Grad,1. Industrial,2. No,79.8549003093
+2004,41,2. Married,1. White,2. HS Grad,2. Information,1. Yes,109.8339856422
+2008,71,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,94.0727147457
+2005,25,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,70.8150386168
+2008,51,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,160.6424754083
+2009,49,4. Divorced,1. White,5. Advanced Degree,2. Information,1. Yes,151.5914842398
+2004,49,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,111.720849361
+2006,34,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,78.392466801
+2005,48,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,66.2294082944
+2005,40,2. Married,1. White,2. HS Grad,1. Industrial,2. No,27.1405792079
+2004,33,2. Married,1. White,3. Some College,2. Information,1. Yes,102.8702469332
+2006,51,2. Married,1. White,4. College Grad,2. Information,1. Yes,148.4131591026
+2006,51,1. Never Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2004,34,2. Married,1. White,4. College Grad,2. Information,2. No,137.5901427665
+2007,38,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,97.4932940454
+2005,49,2. Married,1. White,2. HS Grad,1. Industrial,2. No,111.0144055088
+2004,28,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2007,31,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,99.6894636985
+2006,35,2. Married,1. White,2. HS Grad,2. Information,1. Yes,127.1157438122
+2009,53,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2009,45,2. Married,1. White,2. HS Grad,1. Industrial,2. No,76.8936025176
+2009,38,2. Married,1. White,2. HS Grad,2. Information,1. Yes,103.9024706032
+2007,40,2. Married,2. Black,4. College Grad,2. Information,1. Yes,154.6852929956
+2004,45,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,130.9821773775
+2009,43,2. Married,1. White,3. Some College,1. Industrial,2. No,95.230712567
+2003,47,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,78.392466801
+2005,25,2. Married,1. White,3. Some College,1. Industrial,1. Yes,
+2003,33,1. Never Married,2. Black,1. < HS Grad,1. Industrial,2. No,63.9666908301
+2009,51,2. Married,1. White,4. College Grad,2. Information,1. Yes,91.6992261117
+2005,30,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2006,59,2. Married,2. Black,3. Some College,2. Information,1. Yes,108.8745258347
+2005,51,2. Married,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2004,35,2. Married,1. White,2. HS Grad,2. Information,1. Yes,138.2991269209
+2007,29,2. Married,1. White,4. College Grad,1. Industrial,2. No,87.9810327856
+2008,54,2. Married,1. White,2. HS Grad,2. Information,2. No,78.1551614079
+2006,35,2. Married,1. White,2. HS Grad,2. Information,1. Yes,124.7204462429
+2005,43,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,138.2991269209
+2004,38,2. Married,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2003,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2008,27,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,61.187526434
+2006,56,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,117.1468169148
+2006,51,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2009,54,4. Divorced,1. White,3. Some College,1. Industrial,2. No,86.6951548289
+2004,42,2. Married,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2003,26,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,87.9810327856
+2006,35,2. Married,1. White,2. HS Grad,1. Industrial,2. No,75.1996281486
+2005,28,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,82.6796372966
+2004,47,2. Married,1. White,4. College Grad,1. Industrial,2. No,81.2832532843
+2004,50,2. Married,1. White,4. College Grad,2. Information,1. Yes,127.1157438122
+2008,63,2. Married,1. White,4. College Grad,1. Industrial,2. No,136.8763676352
+2007,45,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,92.791348081
+2005,26,2. Married,1. White,2. HS Grad,2. Information,1. Yes,116.4423183337
+2006,26,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,113.5670895698
+2006,18,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,65.1108537153
+2003,48,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,23.952944479
+2003,72,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,189.2441629328
+2006,53,2. Married,1. White,3. Some College,1. Industrial,1. Yes,120.5894365304
+2007,71,2. Married,2. Black,4. College Grad,2. Information,1. Yes,105.6914475305
+2006,36,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2009,69,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.226746312
+2003,58,4. Divorced,3. Asian,4. College Grad,2. Information,1. Yes,138.2991269209
+2009,52,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+,58,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,123.0896998479
+2004,58,2. Married,1. White,3. Some College,1. Industrial,1. Yes,152.2168068271
+2007,47,2. Married,1. White,3. Some College,1. Industrial,1. Yes,145.1436011769
+2004,32,2. Married,1. White,2. HS Grad,2. Information,1. Yes,104.9215065337
+,21,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,72.1504556816
+2005,23,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,54.5981500331
+2005,56,2. Married,2. Black,4. College Grad,1. Industrial,2. No,118.8843593399
+2004,55,1. Never Married,3. Asian,3. Some College,2. Information,1. Yes,87.9810327856
+2006,60,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,120.9267015444
+2003,50,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2005,32,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,118.8843593399
+2005,40,2. Married,3. Asian,4. College Grad,2. Information,2. No,123.0896998479
+2008,25,2. Married,1. White,2. HS Grad,2. Information,1. Yes,127.1157438122
+2008,52,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,149.6950420685
+2005,34,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2007,49,2. Married,2. Black,,2. Information,1. Yes,104.9215065337
+2009,25,1. Never Married,2. Black,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2007,50,2. Married,1. White,4. College Grad,2. Information,2. No,70.4760196469
+2005,41,2. Married,1. White,3. Some College,1. Industrial,2. No,86.6951548289
+2009,50,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2007,39,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,130.9821773775
+2008,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2003,55,2. Married,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2004,52,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,148.4131591026
+2007,48,2. Married,1. White,4. College Grad,2. Information,2. No,123.0896998479
+2003,22,1. Never Married,1. White,3. Some College,1. Industrial,2. No,43.735111678
+2003,50,4. Divorced,1. White,3. Some College,2. Information,1. Yes,100.0134869247
+2008,33,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2006,25,2. Married,1. White,3. Some College,2. Information,1. Yes,94.0727147457
+2005,26,1. Never Married,1. White,3. Some College,2. Information,1. Yes,104.9215065337
+2005,52,2. Married,1. White,2. HS Grad,2. Information,1. Yes,111.720849361
+,40,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,133.2323508266
+2003,60,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,118.8843593399
+2008,66,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2005,38,2. Married,1. White,3. Some College,2. Information,1. Yes,99.6894636985
+2005,46,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,133.2323508266
+2004,41,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,158.2946214278
+2004,34,2. Married,4. Other,2. HS Grad,1. Industrial,1. Yes,65.1108537153
+2003,53,4. Divorced,1. White,4. College Grad,1. Industrial,2. No,81.6352686511
+2007,46,2. Married,1. White,4. College Grad,2. Information,1. Yes,141.7751723332
+2003,31,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,154.6852929956
+2008,48,5. Separated,1. White,1. < HS Grad,1. Industrial,2. No,64.868969194
+2005,49,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,148.4131591026
+2003,47,2. Married,1. White,3. Some College,2. Information,1. Yes,99.6894636985
+2008,27,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,133.2323508266
+2005,37,,1. White,3. Some College,2. Information,1. Yes,87.9810327856
+2008,18,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,76.8936025176
+2004,48,2. Married,1. White,3. Some College,2. Information,2. No,97.4932940454
+2003,46,2. Married,1. White,4. College Grad,2. Information,1. Yes,134.7053751189
+2004,42,2. Married,1. White,3. Some College,1. Industrial,1. Yes,147.7667762379
+2004,63,2. Married,1. White,2. HS Grad,2. Information,1. Yes,134.7053751189
+2004,48,2. Married,1. White,3. Some College,2. Information,1. Yes,117.1468169148
+2008,29,2. Married,1. White,3. Some College,1. Industrial,2. No,101.8243520757
+2009,48,2. Married,3. Asian,1. < HS Grad,1. Industrial,1. Yes,127.1157438122
+2005,56,2. Married,1. White,2. HS Grad,1. Industrial,2. No,134.7053751189
+2003,48,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2005,47,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,128.6804882206
+,27,2. Married,1. White,3. Some College,1. Industrial,1. Yes,63.1888610037
+2009,42,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,158.2946214278
+2006,45,5. Separated,2. Black,2. HS Grad,2. Information,1. Yes,65.1108537153
+2009,40,2. Married,4. Other,1. < HS Grad,1. Industrial,2. No,72.1504556816
+2005,40,4. Divorced,1. White,2. HS Grad,2. Information,2. No,50.4066608613
+2004,53,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,155.9005061468
+2008,55,5. Separated,1. White,1. < HS Grad,1. Industrial,2. No,81.2832532843
+2008,30,2. Married,3. Asian,5. Advanced Degree,2. Information,2. No,154.0729972063
+2006,33,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,116.2653240625
+2006,41,2. Married,1. White,2. HS Grad,2. Information,1. Yes,99.6894636985
+2007,44,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,104.9215065337
+2004,53,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,80.5731997057
+2005,23,2. Married,1. White,2. HS Grad,1. Industrial,2. No,59.0970640816
+2003,48,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,118.8843593399
+2008,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,276.7784133212
+2006,53,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2006,37,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,92.8958447895
+2005,64,2. Married,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2007,41,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2004,30,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,86.6951548289
+2004,37,2. Married,1. White,2. HS Grad,2. Information,1. Yes,75.355679318
+2004,37,2. Married,3. Asian,4. College Grad,2. Information,2. No,148.4131591026
+2006,27,2. Married,1. White,4. College Grad,2. Information,1. Yes,104.9215065337
+2004,44,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,163.5158639762
+2009,26,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,118.8843593399
+2009,58,2. Married,1. White,3. Some College,2. Information,1. Yes,145.1436011769
+2003,73,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,40.1943705168
+2004,42,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,138.2991269209
+2006,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,127.1157438122
+2003,44,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,182.0206209635
+2003,26,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,108.3906400204
+2005,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,277.601417511
+2007,42,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,130.9821773775
+2009,54,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,108.8745258347
+2007,66,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,99.6894636985
+2004,43,2. Married,1. White,4. College Grad,2. Information,1. Yes,272.2947832201
+2005,51,5. Separated,1. White,4. College Grad,1. Industrial,1. Yes,112.6488963421
+2003,42,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,123.908567598
+2008,41,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,115.3750385564
+2009,34,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2005,29,1. Never Married,1. White,5. Advanced Degree,2. Information,,130.9821773775
+2006,33,2. Married,1. White,4. College Grad,2. Information,1. Yes,136.1577108372
+2008,62,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,89.2428846645
+2003,63,2. Married,1. White,3. Some College,2. Information,2. No,109.8339856422
+2004,40,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,85.383940379
+2008,36,2. Married,3. Asian,2. HS Grad,1. Industrial,2. No,65.1108537153
+2004,55,2. Married,1. White,3. Some College,2. Information,1. Yes,130.2208323588
+2006,47,2. Married,4. Other,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2003,51,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,109.8339856422
+2004,42,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,120.5894365304
+2005,28,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,108.8745258347
+2007,29,2. Married,1. White,2. HS Grad,1. Industrial,2. No,92.8958447895
+2006,32,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,76.8936025176
+2009,47,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,109.8339856422
+2009,37,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,131.737801155
+2009,51,2. Married,1. White,3. Some College,1. Industrial,1. Yes,90.4819133566
+2004,67,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,160.6424754083
+2008,59,4. Divorced,1. White,3. Some College,2. Information,1. Yes,151.5914842398
+2006,54,2. Married,1. White,2. HS Grad,2. Information,1. Yes,111.720849361
+2009,51,2. Married,1. White,4. College Grad,2. Information,2. No,118.8843593399
+2005,34,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,104.9215065337
+2004,40,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,66.9616443217
+2009,47,1. Never Married,4. Other,1. < HS Grad,1. Industrial,2. No,71.6867436659
+2007,45,2. Married,2. Black,2. HS Grad,2. Information,2. No,92.8958447895
+2007,39,2. Married,1. White,2. HS Grad,1. Industrial,2. No,76.4364543728
+2008,32,1. Never Married,1. White,3. Some College,1. Industrial,2. No,76.8936025176
+2004,48,4. Divorced,2. Black,1. < HS Grad,2. Information,1. Yes,85.383940379
+2004,39,2. Married,1. White,4. College Grad,2. Information,1. Yes,123.0896998479
+2006,30,2. Married,1. White,2. HS Grad,1. Industrial,2. No,71.6867436659
+2007,75,2. Married,2. Black,1. < HS Grad,2. Information,2. No,53.3953468906
+2005,55,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2003,38,2. Married,1. White,4. College Grad,2. Information,1. Yes,268.2662920126
+2008,39,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,175.4435492991
+2003,47,2. Married,1. White,2. HS Grad,2. Information,1. Yes,65.1108537153
+2005,49,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,277.601417511
+2006,55,2. Married,1. White,2. HS Grad,2. Information,1. Yes,81.2832532843
+2004,37,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,34.6074177301
+2004,60,2. Married,1. White,3. Some College,2. Information,1. Yes,138.2991269209
+2007,70,2. Married,1. White,1. < HS Grad,2. Information,2. No,100.7642728421
+2009,51,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,99.6894636985
+2005,40,2. Married,1. White,4. College Grad,2. Information,1. Yes,136.1577108372
+2008,51,2. Married,1. White,2. HS Grad,2. Information,2. No,70.4760196469
+2005,55,2. Married,1. White,2. HS Grad,2. Information,1. Yes,104.9215065337
+2006,36,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,179.2148580363
+2004,57,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,97.4932940454
+2008,26,2. Married,4. Other,3. Some College,2. Information,1. Yes,76.8936025176
+2009,36,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,150.6951821017
+2004,48,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,176.9896504899
+2004,22,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,95.230712567
+2005,57,5. Separated,1. White,4. College Grad,1. Industrial,1. Yes,148.4131591026
+2009,56,4. Divorced,1. White,4. College Grad,1. Industrial,2. No,40.4056652597
+2007,28,3. Widowed,1. White,1. < HS Grad,2. Information,2. No,54.5981500331
+2004,57,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,104.9215065337
+2004,39,2. Married,1. White,2. HS Grad,1. Industrial,2. No,47.3389060963
+2003,33,2. Married,1. White,1. < HS Grad,2. Information,2. No,79.8549003093
+2004,50,2. Married,3. Asian,5. Advanced Degree,2. Information,2. No,82.6796372966
+2005,48,2. Married,1. White,3. Some College,1. Industrial,1. Yes,160.6424754083
+2006,41,2. Married,3. Asian,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2003,54,2. Married,1. White,3. Some College,2. Information,1. Yes,139.0034080595
+2005,54,2. Married,1. White,4. College Grad,2. Information,2. No,114.4757132903
+2005,30,2. Married,1. White,2. HS Grad,2. Information,1. Yes,105.9278107751
+2004,36,2. Married,1. White,3. Some College,2. Information,1. Yes,176.9896504899
+2006,41,2. Married,1. White,2. HS Grad,2. Information,1. Yes,101.8243520757
+2008,27,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,73.7757432747
+2009,63,2. Married,3. Asian,5. Advanced Degree,1. Industrial,2. No,114.4757132903
+2003,49,2. Married,1. White,3. Some College,1. Industrial,1. Yes,104.9215065337
+2003,49,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,134.7053751189
+2006,56,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,140.3982001619
+2006,50,4. Divorced,1. White,5. Advanced Degree,2. Information,1. Yes,120.1661196354
+2003,44,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,110.7826502763
+2008,44,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,87.9810327856
+2009,55,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,101.8243520757
+2008,28,1. Never Married,3. Asian,4. College Grad,2. Information,1. Yes,144.4794226794
+2008,32,2. Married,3. Asian,4. College Grad,1. Industrial,2. No,94.0727147457
+2004,49,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,72.5612283088
+2007,25,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,64.1592325661
+2006,28,5. Separated,1. White,1. < HS Grad,1. Industrial,1. Yes,90.4819133566
+2009,34,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,169.0735400494
+2007,44,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,118.8843593399
+2003,46,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2003,38,2. Married,1. White,3. Some College,2. Information,2. No,23.952944479
+2003,41,2. Married,1. White,3. Some College,1. Industrial,1. Yes,85.383940379
+2005,64,2. Married,1. White,4. College Grad,2. Information,2. No,49.5553381215
+2003,30,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,95.230712567
+2007,42,2. Married,1. White,4. College Grad,2. Information,2. No,160.6424754083
+2004,32,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2009,43,5. Separated,1. White,1. < HS Grad,2. Information,2. No,86.6951548289
+2005,48,2. Married,1. White,4. College Grad,2. Information,2. No,66.9616443217
+2003,51,2. Married,2. Black,2. HS Grad,2. Information,2. No,81.2832532843
+2006,20,1. Never Married,2. Black,3. Some College,2. Information,2. No,59.0970640816
+2007,36,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,163.5158639762
+2003,45,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,143.1349408111
+2009,37,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,176.9896504899
+2008,46,2. Married,1. White,4. College Grad,1. Industrial,2. No,89.2428846645
+2004,57,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,134.7053751189
+2004,76,2. Married,1. White,3. Some College,1. Industrial,2. No,73.7757432747
+2009,40,1. Never Married,1. White,4. College Grad,2. Information,2. No,114.4757132903
+2009,35,5. Separated,1. White,1. < HS Grad,2. Information,2. No,73.7757432747
+2007,61,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2008,42,1. Never Married,2. Black,2. HS Grad,2. Information,2. No,78.9846061809
+2006,42,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,81.2832532843
+2003,49,2. Married,1. White,3. Some College,2. Information,1. Yes,123.3361039621
+2006,45,4. Divorced,1. White,3. Some College,1. Industrial,2. No,109.8339856422
+2006,25,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,69.6190369047
+2008,24,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,73.7757432747
+2004,22,1. Never Married,2. Black,3. Some College,2. Information,2. No,95.230712567
+2005,52,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,114.4757132903
+2007,43,4. Divorced,1. White,5. Advanced Degree,1. Industrial,1. Yes,160.6424754083
+2003,30,2. Married,1. White,3. Some College,2. Information,1. Yes,186.876677628
+2004,47,2. Married,1. White,3. Some College,1. Industrial,1. Yes,148.4131591026
+2003,47,2. Married,1. White,4. College Grad,2. Information,1. Yes,118.8843593399
+2007,34,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,163.5158639762
+2009,50,2. Married,1. White,3. Some College,1. Industrial,1. Yes,175.9608831304
+2007,51,4. Divorced,1. White,4. College Grad,,1. Yes,281.7459705519
+2004,50,2. Married,1. White,2. HS Grad,1. Industrial,2. No,61.0524210501
+2009,48,2. Married,1. White,1. < HS Grad,2. Information,2. No,100.8794609188
+2005,49,2. Married,1. White,2. HS Grad,2. Information,1. Yes,101.8243520757
+2006,54,2. Married,1. White,3. Some College,1. Industrial,2. No,117.1468169148
+2004,44,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,76.8936025176
+2008,36,2. Married,1. White,4. College Grad,1. Industrial,2. No,163.5158639762
+2004,50,2. Married,1. White,3. Some College,1. Industrial,1. Yes,95.230712567
+2008,48,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,111.720849361
+2004,46,5. Separated,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457
+2004,62,2. Married,1. White,3. Some College,2. Information,1. Yes,94.0727147457
+2004,38,2. Married,1. White,2. HS Grad,1. Industrial,2. No,48.185650217
+2008,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2005,40,2. Married,1. White,3. Some College,1. Industrial,2. No,94.0727147457
+2003,30,1. Never Married,2. Black,5. Advanced Degree,2. Information,1. Yes,138.2991269209
+2008,52,4. Divorced,2. Black,4. College Grad,2. Information,1. Yes,95.230712567
+2004,25,1. Never Married,1. White,1. < HS Grad,1. Industrial,1. Yes,82.6796372966
+2009,61,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,122.2636738928
+2005,45,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,82.6796372966
+2009,28,2. Married,1. White,2. HS Grad,2. Information,1. Yes,113.5670895698
+2008,47,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,108.8745258347
+2005,43,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,152.8388009912
+2008,57,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,127.1157438122
+2004,40,2. Married,1. White,2. HS Grad,2. Information,2. No,68.5721657023
+2006,56,2. Married,2. Black,3. Some College,2. Information,1. Yes,127.1157438122
+2007,60,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,106.9218140912
+2005,31,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,148.4131591026
+2005,48,2. Married,1. White,2. HS Grad,1. Industrial,2. No,49.5553381215
+2007,39,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,107.9039238669
+2004,53,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,108.6813082373
+2009,58,2. Married,1. White,4. College Grad,2. Information,2. No,154.6852929956
+2004,43,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,90.4819133566
+2003,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,73.7757432747
+2003,35,2. Married,1. White,2. HS Grad,2. Information,2. No,81.2832532843
+2004,47,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,272.2947832201
+2007,50,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,127.1157438122
+2003,38,2. Married,3. Asian,4. College Grad,2. Information,2. No,200.5432623247
+2006,54,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,132.4878211261
+2004,40,2. Married,1. White,2. HS Grad,2. Information,1. Yes,75.355679318
+2005,43,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,103.9024706032
+2006,49,2. Married,2. Black,4. College Grad,2. Information,1. Yes,141.7751723332
+2005,42,2. Married,1. White,4. College Grad,2. Information,1. Yes,134.7053751189
+2007,41,2. Married,1. White,4. College Grad,2. Information,1. Yes,186.876677628
+2009,31,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,109.8339856422
+2008,23,2. Married,1. White,4. College Grad,1. Industrial,2. No,118.8843593399
+2004,58,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,100.7642728421
+2007,28,1. Never Married,1. White,3. Some College,1. Industrial,2. No,84.1000101164
+2003,25,2. Married,1. White,3. Some College,1. Industrial,1. Yes,87.9810327856
+2007,67,2. Married,2. Black,1. < HS Grad,2. Information,1. Yes,129.4536445766
+2006,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,200.5432623247
+2009,42,4. Divorced,2. Black,2. HS Grad,2. Information,1. Yes,107.9039238669
+2009,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,166.3249412339
+2003,41,2. Married,1. White,4. College Grad,1. Industrial,2. No,82.6796372966
+2006,42,2. Married,1. White,4. College Grad,2. Information,1. Yes,148.4131591026
+2006,55,2. Married,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2003,34,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,146.4628385151
+2006,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,129.4536445766
+2005,55,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,277.601417511
+2006,52,2. Married,1. White,3. Some College,1. Industrial,1. Yes,85.383940379
+2005,49,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,90.7270793135
+2007,34,2. Married,1. White,5. Advanced Degree,2. Information,2. No,97.4932940454
+2005,39,2. Married,1. White,4. College Grad,1. Industrial,2. No,87.9810327856
+2005,34,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,111.720849361
+2004,30,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,88.9923771888
+2004,63,4. Divorced,1. White,2. HS Grad,2. Information,2. No,75.0431540174
+2007,23,1. Never Married,1. White,2. HS Grad,2. Information,2. No,81.2832532843
+2008,25,1. Never Married,1. White,3. Some College,2. Information,1. Yes,130.9821773775
+2006,39,2. Married,1. White,3. Some College,2. Information,1. Yes,148.4131591026
+2004,72,2. Married,1. White,2. HS Grad,2. Information,1. Yes,92.8958447895
+2008,33,2. Married,1. White,2. HS Grad,1. Industrial,2. No,128.6804882206
+2006,50,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,87.9810327856
+2009,36,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,94.0727147457
+2008,49,2. Married,1. White,4. College Grad,2. Information,1. Yes,141.7751723332
+2009,34,2. Married,1. White,4. College Grad,2. Information,1. Yes,160.6424754083
+2004,32,3. Widowed,3. Asian,4. College Grad,1. Industrial,2. No,104.9215065337
+2007,47,1. Never Married,1. White,3. Some College,1. Industrial,2. No,99.6894636985
+2006,58,2. Married,2. Black,3. Some College,2. Information,2. No,309.5717712662
+2008,36,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,118.8843593399
+2004,32,1. Never Married,3. Asian,4. College Grad,1. Industrial,1. Yes,118.8843593399
+2009,39,2. Married,1. White,2. HS Grad,2. Information,1. Yes,97.4710060956
+2007,63,2. Married,1. White,4. College Grad,1. Industrial,2. No,55.5361044177
+2008,54,2. Married,3. Asian,2. HS Grad,1. Industrial,2. No,95.230712567
+2007,51,2. Married,1. White,2. HS Grad,2. Information,1. Yes,124.7204462429
+2003,42,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,75.0431540174
+2005,35,2. Married,2. Black,4. College Grad,2. Information,1. Yes,99.6894636985
+2007,47,2. Married,2. Black,3. Some College,2. Information,1. Yes,130.9821773775
+2005,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,91.6992261117
+2003,46,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,117.1468169148
+2007,43,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,65.1108537153
+2003,26,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,99.6894636985
+2009,26,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,160.6436381718
+2009,52,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,61.187526434
+2004,48,2. Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2006,34,2. Married,1. White,3. Some College,2. Information,1. Yes,145.1436011769
+2009,33,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,267.9010868553
+2007,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,107.9039238669
+2003,43,2. Married,1. White,4. College Grad,1. Industrial,2. No,73.7757432747
+2006,64,2. Married,1. White,3. Some College,2. Information,1. Yes,114.4757132903
+2005,31,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,102.8702469332
+,41,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,130.9821773775
+2004,46,1. Never Married,1. White,2. HS Grad,2. Information,2. No,87.9810327856
+2008,37,5. Separated,2. Black,3. Some College,2. Information,2. No,97.4932940454
+2009,47,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,152.8388009912
+2006,40,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,198.3502904644
+2008,49,1. Never Married,1. White,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2006,48,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2003,42,2. Married,,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2006,31,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2004,56,2. Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2003,46,4. Divorced,1. White,3. Some College,1. Industrial,2. No,126.3238807098
+2003,19,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,51.9036962666
+2004,37,1. Never Married,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2003,21,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,75.0431540174
+2007,44,2. Married,1. White,4. College Grad,2. Information,1. Yes,160.6424754083
+2009,27,2. Married,1. White,3. Some College,2. Information,1. Yes,81.2832532843
+2008,62,2. Married,1. White,2. HS Grad,1. Industrial,2. No,89.492479518
+2006,23,2. Married,1. White,4. College Grad,2. Information,1. Yes,75.355679318
+2009,18,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,49.5553381215
+2005,40,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2006,41,2. Married,1. White,2. HS Grad,2. Information,2. No,81.2832532843
+2003,52,2. Married,1. White,4. College Grad,2. Information,2. No,96.3706528322
+2005,69,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,77.737603304
+2005,58,4. Divorced,2. Black,2. HS Grad,2. Information,2. No,81.2832532843
+2005,30,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,141.7758564663
+2004,61,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2009,54,2. Married,2. Black,3. Some College,1. Industrial,1. Yes,99.6894636985
+2006,56,2. Married,1. White,3. Some College,2. Information,1. Yes,99.6894636985
+2009,55,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,104.9235317007
+2007,42,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2005,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,79.8549003093
+2006,61,2. Married,1. White,3. Some College,2. Information,2. No,130.9821773775
+2007,38,2. Married,1. White,2. HS Grad,1. Industrial,2. No,87.9810327856
+2006,48,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2008,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,144.1706064882
+2008,22,1. Never Married,1. White,3. Some College,1. Industrial,2. No,81.2832532843
+2006,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,148.4131591026
+2006,36,1. Never Married,2. Black,3. Some College,1. Industrial,1. Yes,97.4932940454
+2006,25,2. Married,1. White,2. HS Grad,2. Information,1. Yes,76.8936025176
+2005,26,1. Never Married,1. White,5. Advanced Degree,2. Information,1. Yes,114.4757132903
+2003,47,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,84.045957654
+2009,50,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,132.4878211261
+2009,46,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,84.3157688646
+2004,43,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2007,53,2. Married,3. Asian,2. HS Grad,1. Industrial,1. Yes,66.9616443217
+2003,19,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,54.5981500331
+2008,33,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2006,22,2. Married,2. Black,3. Some College,2. Information,1. Yes,90.4819133566
+2008,28,4. Divorced,4. Other,2. HS Grad,1. Industrial,1. Yes,76.8936025176
+2003,57,2. Married,2. Black,2. HS Grad,2. Information,2. No,104.9215065337
+2003,62,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,94.0727147457
+2008,39,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,276.7784133212
+2008,59,2. Married,3. Asian,2. HS Grad,1. Industrial,1. Yes,139.2137881387
+2008,45,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,160.6424754083
+2004,38,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,104.9215065337
+2005,59,2. Married,1. White,2. HS Grad,2. Information,1. Yes,148.4131591026
+2004,51,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,147.11668916
+2006,39,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2003,65,2. Married,1. White,4. College Grad,2. Information,1. Yes,87.9810327856
+2007,48,4. Divorced,1. White,1. < HS Grad,1. Industrial,1. Yes,109.8339856422
+2004,35,2. Married,3. Asian,2. HS Grad,1. Industrial,2. No,65.1108537153
+2007,49,2. Married,2. Black,3. Some College,2. Information,1. Yes,87.9810327856
+2005,27,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,111.720849361
+2009,53,2. Married,1. White,3. Some College,2. Information,1. Yes,109.8339856422
+2007,36,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,87.9810327856
+2003,48,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,163.5158639762
+2004,56,2. Married,1. White,4. College Grad,2. Information,1. Yes,101.8243520757
+2006,44,2. Married,1. White,2. HS Grad,1. Industrial,2. No,102.7662808773
+2008,54,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,80.4874443595
+2004,55,2. Married,3. Asian,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2008,50,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,46.7632687977
+2008,37,2. Married,1. White,4. College Grad,2. Information,1. Yes,161.9149513819
+2006,35,2. Married,1. White,4. College Grad,2. Information,2. No,109.8339856422
+2007,48,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,108.8745258347
+2009,27,2. Married,1. White,3. Some College,1. Industrial,1. Yes,90.4819133566
+2003,58,2. Married,1. White,3. Some College,2. Information,1. Yes,104.9215065337
+2008,32,2. Married,1. White,2. HS Grad,2. Information,2. No,73.7757432747
+2007,37,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,116.2653240625
+2004,39,2. Married,2. Black,4. College Grad,1. Industrial,2. No,99.6894636985
+2009,32,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,127.9012329791
+2003,50,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,134.7053751189
+2009,28,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,111.720849361
+2004,45,2. Married,1. White,2. HS Grad,2. Information,2. No,87.9810327856
+2004,39,2. Married,1. White,2. HS Grad,1. Industrial,2. No,109.8339856422
+2005,42,2. Married,1. White,4. College Grad,1. Industrial,2. No,176.9896504899
+2004,62,2. Married,1. White,4. College Grad,2. Information,1. Yes,130.9821773775
+2004,43,2. Married,1. White,4. College Grad,2. Information,1. Yes,154.6852929956
+2005,59,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2005,47,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,79.8549003093
+2007,28,2. Married,3. Asian,2. HS Grad,1. Industrial,2. No,76.1296996371
+2006,48,1. Never Married,2. Black,2. HS Grad,2. Information,1. Yes,87.9810327856
+2004,54,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,127.1157438122
+2003,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,118.8843593399
+2005,36,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,132.3524777099
+2008,30,5. Separated,1. White,1. < HS Grad,1. Industrial,2. No,70.8150386168
+2007,46,2. Married,2. Black,2. HS Grad,2. Information,2. No,76.8936025176
+2009,45,5. Separated,1. White,2. HS Grad,1. Industrial,2. No,113.5670895698
+2005,32,1. Never Married,2. Black,3. Some College,2. Information,1. Yes,47.9336713297
+2004,56,2. Married,1. White,4. College Grad,2. Information,1. Yes,138.2991269209
+2003,39,2. Married,1. White,4. College Grad,2. Information,1. Yes,129.4536445766
+2007,48,2. Married,1. White,2. HS Grad,2. Information,1. Yes,91.7016396744
+2004,42,2. Married,1. White,2. HS Grad,2. Information,1. Yes,106.9218140912
+2007,28,2. Married,1. White,2. HS Grad,1. Industrial,2. No,139.7030715277
+2006,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,105.9278107751
+2003,45,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,160.6424754083
+2009,59,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,200.5432623247
+2009,27,1. Never Married,2. Black,5. Advanced Degree,2. Information,1. Yes,102.8702469332
+2007,22,1. Never Married,3. Asian,4. College Grad,2. Information,1. Yes,63.1888610037
+2003,38,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,134.7053751189
+2004,51,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,150.9627834621
+2008,51,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,105.9278107751
+2006,46,2. Married,1. White,3. Some College,2. Information,1. Yes,139.6758701627
+2004,35,2. Married,1. White,2. HS Grad,2. Information,2. No,114.4757132903
+2009,26,1. Never Married,1. White,3. Some College,1. Industrial,2. No,99.6894636985
+2007,47,1. Never Married,2. Black,4. College Grad,2. Information,1. Yes,161.2224954568
+2009,56,1. Never Married,2. Black,1. < HS Grad,2. Information,2. No,79.8549003093
+2003,31,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2004,40,4. Divorced,1. White,3. Some College,1. Industrial,2. No,94.0727147457
+2003,25,2. Married,1. White,2. HS Grad,1. Industrial,2. No,81.2832532843
+2008,23,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,127.1157438122
+2008,60,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,147.11668916
+2004,42,2. Married,1. White,4. College Grad,2. Information,1. Yes,166.3249412339
+2008,32,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,118.8843593399
+2006,25,1. Never Married,1. White,3. Some College,1. Industrial,2. No,99.6894636985
+2005,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,128.1996368718
+2009,42,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,101.8243520757
+2004,44,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,170.6951277113
+2004,39,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,75.355679318
+2005,32,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2003,39,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,94.0727147457
+2003,27,1. Never Married,1. White,3. Some College,2. Information,1. Yes,116.1766951711
+2009,30,2. Married,1. White,4. College Grad,2. Information,1. Yes,102.8702469332
+2008,38,2. Married,1. White,4. College Grad,2. Information,2. No,115.3750385564
+2007,33,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,87.9810327856
+2003,43,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,154.6852929956
+2008,58,2. Married,3. Asian,1. < HS Grad,2. Information,2. No,54.5981500331
+2006,43,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,184.1671357996
+2008,31,2. Married,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2008,44,2. Married,1. White,3. Some College,1. Industrial,1. Yes,154.6852929956
+2005,44,2. Married,1. White,3. Some College,1. Industrial,1. Yes,101.8243520757
+2006,43,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,
+2004,38,2. Married,1. White,2. HS Grad,2. Information,1. Yes,127.2733470065
+2008,45,2. Married,1. White,3. Some College,1. Industrial,1. Yes,148.4131591026
+2007,37,2. Married,1. White,3. Some College,2. Information,2. No,90.4819133566
+2006,47,2. Married,1. White,2. HS Grad,2. Information,1. Yes,78.392466801
+2003,52,2. Married,1. White,3. Some College,2. Information,1. Yes,70.4760196469
+2003,35,2. Married,1. White,3. Some College,2. Information,2. No,76.8936025176
+2007,31,2. Married,1. White,3. Some College,1. Industrial,2. No,99.6894636985
+2007,49,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,104.5917379249
+2009,41,4. Divorced,2. Black,3. Some College,2. Information,1. Yes,98.0483505056
+2008,33,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,94.0727147457
+2009,37,2. Married,1. White,4. College Grad,2. Information,1. Yes,98.5993438604
+2007,44,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,97.4932940454
+2009,40,2. Married,1. White,2. HS Grad,1. Industrial,2. No,79.8549003093
+2007,39,3. Widowed,3. Asian,2. HS Grad,1. Industrial,1. Yes,73.7757432747
+2003,40,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,299.262976764
+2004,39,2. Married,3. Asian,1. < HS Grad,1. Industrial,1. Yes,70.4760196469
+2006,26,2. Married,1. White,2. HS Grad,2. Information,1. Yes,130.9821773775
+2007,30,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,101.8243520757
+2004,42,4. Divorced,1. White,1. < HS Grad,2. Information,1. Yes,111.720849361
+2004,33,1. Never Married,1. White,3. Some College,2. Information,1. Yes,87.9810327856
+2003,40,2. Married,2. Black,3. Some College,2. Information,1. Yes,98.5993438604
+2007,23,2. Married,1. White,4. College Grad,2. Information,1. Yes,79.8549003093
+2007,44,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,113.6127457264
+2005,45,2. Married,1. White,3. Some College,1. Industrial,2. No,81.2832532843
+2006,56,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,127.1157438122
+2003,48,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,109.8339856422
+2003,37,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,54.5981500331
+2007,20,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+,33,2. Married,1. White,3. Some College,2. Information,1. Yes,92.8958447895
+2005,35,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,157.7005277257
+2004,52,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,134.7053751189
+2005,52,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,176.9896504899
+2003,46,2. Married,3. Asian,1. < HS Grad,1. Industrial,1. Yes,68.7480877338
+2003,39,2. Married,1. White,2. HS Grad,2. Information,1. Yes,109.8339856422
+2005,52,2. Married,1. White,4. College Grad,2. Information,1. Yes,137.5901427665
+2009,35,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,193.411070531
+2004,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,43.735111678
+2008,34,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,108.8745258347
+2005,44,2. Married,1. White,3. Some College,2. Information,2. No,97.4932940454
+2008,61,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,141.7751723332
+2005,25,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,89.492479518
+,48,2. Married,1. White,4. College Grad,2. Information,2. No,109.5472966342
+2003,39,2. Married,3. Asian,1. < HS Grad,1. Industrial,2. No,68.7480877338
+2003,34,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,103.9024706032
+2005,45,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,94.0727147457
+2003,28,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,118.8843593399
+2009,25,1. Never Married,3. Asian,4. College Grad,2. Information,1. Yes,115.3750385564
+2006,40,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,277.7994802057
+2004,26,1. Never Married,3. Asian,3. Some College,1. Industrial,1. Yes,99.6894636985
+2008,51,2. Married,2. Black,3. Some College,1. Industrial,2. No,76.8936025176
+2004,44,2. Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2005,59,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2004,50,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,87.9810327856
+2009,35,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,
+2009,55,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,114.4757132903
+2008,28,1. Never Married,1. White,1. < HS Grad,1. Industrial,1. Yes,106.3696471815
+2005,77,2. Married,1. White,2. HS Grad,2. Information,1. Yes,99.6894636985
+2005,33,2. Married,3. Asian,4. College Grad,1. Industrial,1. Yes,104.9215065337
+2003,49,2. Married,1. White,4. College Grad,2. Information,1. Yes,152.5282168986
+2004,18,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,72.1504556816
+2007,30,2. Married,1. White,4. College Grad,2. Information,1. Yes,182.0206209635
+2008,30,1. Never Married,3. Asian,3. Some College,2. Information,1. Yes,111.720849361
+2008,35,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,154.9902602768
+2009,54,2. Married,3. Asian,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2003,33,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,81.2832532843
+2004,49,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,131.1943236117
+2007,60,2. Married,1. White,2. HS Grad,1. Industrial,2. No,114.9265217815
+2006,37,4. Divorced,1. White,1. < HS Grad,2. Information,1. Yes,98.5993438604
+2009,50,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,133.2323508266
+2004,63,2. Married,1. White,4. College Grad,2. Information,1. Yes,118.01975334
+2003,58,4. Divorced,2. Black,2. HS Grad,2. Information,1. Yes,61.5945831752
+2005,22,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,81.2832532843
+2003,46,2. Married,1. White,3. Some College,2. Information,1. Yes,99.6894636985
+2005,49,2. Married,1. White,3. Some College,2. Information,1. Yes,111.720849361
+2006,48,2. Married,1. White,2. HS Grad,1. Industrial,2. No,123.0896998479
+2009,39,2. Married,1. White,2. HS Grad,1. Industrial,2. No,95.230712567
+2005,22,1. Never Married,1. White,4. College Grad,2. Information,2. No,54.0299651758
+2003,41,2. Married,1. White,4. College Grad,2. Information,2. No,70.4760196469
+2005,23,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,90.4819133566
+2008,23,1. Never Married,1. White,2. HS Grad,2. Information,2. No,66.2294082944
+2006,36,1. Never Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,63.1888610037
+2005,29,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,79.8549003093
+2009,52,2. Married,1. White,3. Some College,1. Industrial,1. Yes,145.1436011769
+2003,18,1. Never Married,2. Black,2. HS Grad,1. Industrial,1. Yes,70.4760196469
+2008,42,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,125.5254984338
+2003,39,2. Married,1. White,2. HS Grad,1. Industrial,2. No,134.7053751189
+2005,71,3. Widowed,1. White,3. Some College,1. Industrial,1. Yes,118.8843593399
+2004,58,2. Married,1. White,2. HS Grad,2. Information,1. Yes,94.0727147457
+2006,34,2. Married,1. White,2. HS Grad,1. Industrial,2. No,108.8745258347
+2005,48,2. Married,1. White,4. College Grad,2. Information,1. Yes,115.3750385564
+2004,52,2. Married,1. White,4. College Grad,2. Information,2. No,46.7632687977
+2009,44,2. Married,4. Other,3. Some College,1. Industrial,1. Yes,169.5285380367
+2008,40,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,88.8164739741
+2005,38,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,160.6424754083
+2004,43,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,160.6424754083
+2006,31,1. Never Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,97.4932940454
+2008,29,2. Married,1. White,1. < HS Grad,1. Industrial,1. Yes,99.6894636985
+2008,41,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,110.7826502763
+2008,41,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,99.6894636985
+2007,46,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2004,41,2. Married,1. White,3. Some College,1. Industrial,1. Yes,81.2832532843
+2006,51,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,176.9896504899
+2004,51,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,123.0896998479
+2004,37,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,127.1157438122
+2004,34,2. Married,1. White,4. College Grad,2. Information,1. Yes,166.3249412339
+2003,33,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,128.6804882206
+2004,40,2. Married,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2009,29,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,95.230712567
+2009,48,1. Never Married,1. White,3. Some College,2. Information,1. Yes,147.11668916
+2009,58,2. Married,1. White,4. College Grad,2. Information,1. Yes,148.4131591026
+2006,44,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,116.2653240625
+2004,48,2. Married,1. White,2. HS Grad,1. Industrial,2. No,48.185650217
+2007,64,2. Married,1. White,2. HS Grad,2. Information,1. Yes,90.4819133566
+2008,45,2. Married,3. Asian,4. College Grad,1. Industrial,2. No,99.6894636985
+2009,52,2. Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2004,43,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,45.282169994
+2003,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,127.1157438122
+2004,33,2. Married,1. White,2. HS Grad,1. Industrial,2. No,104.9215065337
+2009,49,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,75.355679318
+2008,41,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,276.7784133212
+2003,43,5. Separated,2. Black,3. Some College,2. Information,1. Yes,79.8549003093
+2007,32,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,65.1108537153
+2008,24,1. Never Married,4. Other,2. HS Grad,1. Industrial,2. No,70.4760196469
+2003,31,2. Married,1. White,3. Some College,1. Industrial,1. Yes,92.6581301669
+2006,59,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2006,61,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,107.4339706104
+2006,53,2. Married,3. Asian,5. Advanced Degree,1. Industrial,1. Yes,134.7053751189
+2003,40,2. Married,1. White,3. Some College,2. Information,1. Yes,87.9810327856
+2009,37,2. Married,1. White,4. College Grad,2. Information,1. Yes,189.2441629328
+2008,60,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,76.8936025176
+2007,39,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,166.3249412339
+2003,37,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,98.5993438604
+2009,46,2. Married,1. White,5. Advanced Degree,,1. Yes,157.7005277257
+2005,38,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,186.876677628
+2005,37,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,134.7053751189
+2007,32,2. Married,2. Black,5. Advanced Degree,2. Information,1. Yes,118.8843593399
+2006,35,2. Married,1. White,2. HS Grad,1. Industrial,2. No,73.7757432747
+2003,33,2. Married,1. White,4. College Grad,2. Information,1. Yes,107.9039238669
+2005,26,2. Married,1. White,2. HS Grad,1. Industrial,2. No,96.3706528322
+2009,41,2. Married,1. White,2. HS Grad,2. Information,1. Yes,117.1468169148
+2009,48,2. Married,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457
+2007,31,2. Married,1. White,4. College Grad,2. Information,1. Yes,149.0558955894
+2004,59,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,102.8702469332
+2006,52,2. Married,1. White,2. HS Grad,2. Information,1. Yes,92.6581301669
+2006,37,2. Married,1. White,2. HS Grad,1. Industrial,2. No,92.8958447895
+2009,38,2. Married,1. White,3. Some College,2. Information,1. Yes,111.720849361
+2008,34,2. Married,1. White,2. HS Grad,1. Industrial,2. No,80.4302079458
+2006,50,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,98.2692308088
+2004,58,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457
+2007,52,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,76.8936025176
+2006,33,2. Married,1. White,2. HS Grad,1. Industrial,2. No,89.2428846645
+2006,37,2. Married,2. Black,4. College Grad,1. Industrial,2. No,108.8745258347
+2003,33,1. Never Married,3. Asian,3. Some College,2. Information,1. Yes,81.2832532843
+2008,51,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,114.4757132903
+2003,49,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,114.4757132903
+2005,38,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,160.6424754083
+2006,37,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,81.2832532843
+2008,29,1. Never Married,1. White,2. HS Grad,2. Information,2. No,118.8843593399
+2006,47,2. Married,1. White,4. College Grad,1. Industrial,2. No,86.6951548289
+2009,42,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,182.0206209635
+2009,38,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,114.4757132903
+2007,53,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,128.6804882206
+2008,51,2. Married,1. White,2. HS Grad,2. Information,1. Yes,101.402052303
+2005,57,2. Married,1. White,4. College Grad,1. Industrial,2. No,75.355679318
+2009,33,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,87.9810327856
+2005,63,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,73.7757432747
+2004,40,2. Married,1. White,4. College Grad,2. Information,1. Yes,111.720849361
+2007,50,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,50.4119228436
+2007,53,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,85.383940379
+2006,50,1. Never Married,1. White,2. HS Grad,2. Information,1. Yes,111.721782428
+2009,53,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,82.6796372966
+2008,25,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,99.6894636985
+2005,46,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2008,36,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,114.4757132903
+2004,32,2. Married,4. Other,1. < HS Grad,1. Industrial,2. No,54.5981500331
+2007,51,2. Married,1. White,2. HS Grad,2. Information,1. Yes,86.6951548289
+2007,50,2. Married,1. White,3. Some College,2. Information,1. Yes,99.6894636985
+2006,36,2. Married,1. White,4. College Grad,2. Information,1. Yes,140.3982001619
+2006,53,2. Married,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2005,28,5. Separated,1. White,2. HS Grad,1. Industrial,1. Yes,94.0727147457
+2003,36,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,73.2930820723
+2003,52,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,138.2991269209
+2006,70,1. Never Married,1. White,4. College Grad,1. Industrial,1. Yes,87.9810327856
+2009,21,1. Never Married,2. Black,2. HS Grad,2. Information,1. Yes,102.8702469332
+2009,29,2. Married,1. White,5. Advanced Degree,2. Information,2. No,117.1468169148
+2007,55,2. Married,1. White,3. Some College,1. Industrial,1. Yes,130.2208323588
+2007,51,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,114.4757132903
+2006,50,2. Married,1. White,5. Advanced Degree,2. Information,2. No,212.8423523157
+2006,33,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2008,29,2. Married,1. White,3. Some College,1. Industrial,1. Yes,182.0206209635
+2004,47,2. Married,1. White,2. HS Grad,2. Information,1. Yes,136.1577108372
+2005,35,2. Married,1. White,1. < HS Grad,1. Industrial,2. No,70.8150386168
+2009,41,4. Divorced,1. White,5. Advanced Degree,1. Industrial,2. No,38.605914521
+2007,21,1. Never Married,1. White,2. HS Grad,2. Information,2. No,96.144072212
+2004,30,2. Married,1. White,3. Some College,2. Information,1. Yes,95.230712567
+2007,48,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,111.720849361
+2008,49,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,79.8549003093
+2005,64,2. Married,2. Black,2. HS Grad,2. Information,1. Yes,109.8339856422
+2006,30,4. Divorced,1. White,3. Some College,1. Industrial,1. Yes,107.9039238669
+2003,28,2. Married,1. White,3. Some College,2. Information,1. Yes,118.8843593399
+2009,42,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,114.4757132903
+2005,45,2. Married,1. White,3. Some College,1. Industrial,2. No,127.1157438122
+2009,74,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+2007,31,1. Never Married,4. Other,3. Some College,2. Information,2. No,81.2832532843
+2005,45,3. Widowed,1. White,2. HS Grad,1. Industrial,2. No,118.8843593399
+2005,29,2. Married,1. White,3. Some College,1. Industrial,1. Yes,109.8339856422
+2005,23,1. Never Married,4. Other,4. College Grad,2. Information,1. Yes,94.0727147457
+2004,61,2. Married,1. White,3. Some College,1. Industrial,2. No,128.6804882206
+2003,33,2. Married,1. White,5. Advanced Degree,2. Information,2. No,116.2653240625
+2008,43,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,99.6894636985
+2003,40,4. Divorced,1. White,2. HS Grad,2. Information,1. Yes,97.4932940454
+2007,62,4. Divorced,1. White,4. College Grad,2. Information,1. Yes,109.8339856422
+2003,38,1. Never Married,1. White,3. Some College,2. Information,1. Yes,314.3293364453
+2008,41,2. Married,1. White,5. Advanced Degree,1. Industrial,2. No,83.1913242935
+2004,38,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,109.8339856422
+2004,45,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,272.2947832201
+2006,39,2. Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,277.7994802057
+2009,55,2. Married,1. White,5. Advanced Degree,2. Information,2. No,66.0446942318
+2009,44,2. Married,1. White,4. College Grad,2. Information,1. Yes,176.9896504899
+2005,43,2. Married,1. White,4. College Grad,2. Information,1. Yes,176.9896504899
+2007,50,2. Married,1. White,3. Some College,2. Information,1. Yes,89.2428846645
+2004,42,2. Married,3. Asian,5. Advanced Degree,2. Information,1. Yes,114.4757132903
+2007,20,1. Never Married,1. White,3. Some College,1. Industrial,1. Yes,70.8150386168
+2008,27,1. Never Married,1. White,2. HS Grad,1. Industrial,1. Yes,85.3865890236
+2006,47,2. Married,2. Black,2. HS Grad,1. Industrial,2. No,27.1405792079
+2006,44,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,108.8745258347
+2004,47,2. Married,1. White,2. HS Grad,1. Industrial,2. No,118.8843593399
+2003,41,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,111.720849361
+2003,29,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,59.6286455537
+2003,45,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,73.7757432747
+2008,50,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2005,36,1. Never Married,1. White,4. College Grad,1. Industrial,2. No,60.7397785178
+2007,63,2. Married,2. Black,5. Advanced Degree,2. Information,1. Yes,318.3424300565
+2006,50,3. Widowed,1. White,2. HS Grad,1. Industrial,1. Yes,109.8339856422
+2006,19,1. Never Married,1. White,1. < HS Grad,1. Industrial,2. No,65.1108537153
+2004,35,4. Divorced,1. White,2. HS Grad,1. Industrial,2. No,59.0970640816
+2003,62,2. Married,1. White,3. Some College,1. Industrial,1. Yes,111.720849361
+2009,30,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,141.7751723332
+2008,30,2. Married,3. Asian,5. Advanced Degree,2. Information,2. No,127.1157438122
+2003,37,2. Married,1. White,2. HS Grad,1. Industrial,2. No,78.392466801
+2005,56,5. Separated,1. White,2. HS Grad,2. Information,1. Yes,110.7826502763
+2006,28,1. Never Married,4. Other,2. HS Grad,1. Industrial,2. No,67.1430807547
+2007,47,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,99.6894636985
+,28,2. Married,1. White,3. Some College,2. Information,2. No,87.9810327856
+2005,55,2. Married,1. White,3. Some College,1. Industrial,1. Yes,113.5670895698
+2006,61,3. Widowed,1. White,2. HS Grad,1. Industrial,1. Yes,111.4404695671
+2008,52,2. Married,2. Black,4. College Grad,1. Industrial,2. No,94.0727147457
+2006,44,2. Married,1. White,1. < HS Grad,2. Information,1. Yes,87.9810327856
+2008,44,2. Married,1. White,2. HS Grad,1. Industrial,1. Yes,104.9215065337
+2005,35,4. Divorced,2. Black,4. College Grad,1. Industrial,1. Yes,117.1468169148
+2006,35,2. Married,1. White,1. < HS Grad,2. Information,2. No,65.1108537153
+2005,45,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,148.4131591026
+2009,32,1. Never Married,1. White,3. Some College,2. Information,1. Yes,114.4757132903
+2008,52,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,65.1108537153
+2007,60,1. Never Married,1. White,5. Advanced Degree,1. Industrial,1. Yes,111.720849361
+2006,27,1. Never Married,1. White,3. Some College,2. Information,2. No,103.9024706032
+2004,37,2. Married,3. Asian,4. College Grad,2. Information,1. Yes,127.1157438122
+2004,36,2. Married,1. White,3. Some College,2. Information,2. No,95.230712567
+2005,30,2. Married,2. Black,4. College Grad,2. Information,2. No,94.0727147457
+2007,61,2. Married,1. White,3. Some College,2. Information,2. No,281.7459705519
+2006,38,2. Married,1. White,3. Some College,2. Information,1. Yes,130.9821773775
+2007,38,2. Married,1. White,4. College Grad,2. Information,1. Yes,160.6424754083
+2005,61,2. Married,1. White,4. College Grad,2. Information,1. Yes,143.8085568244
+2003,40,2. Married,1. White,,1. Industrial,2. No,182.0206209635
+2004,41,2. Married,1. White,4. College Grad,2. Information,1. Yes,127.9012329791
+2004,41,2. Married,1. White,4. College Grad,1. Industrial,1. Yes,109.8339856422
+2008,42,1. Never Married,1. White,4. College Grad,2. Information,1. Yes,104.9215065337
+2003,41,2. Married,2. Black,2. HS Grad,1. Industrial,1. Yes,104.9215065337
+2003,39,2. Married,1. White,3. Some College,2. Information,1. Yes,130.9821773775
+2004,41,2. Married,1. White,2. HS Grad,1. Industrial,2. No,127.1157438122
+2007,52,2. Married,4. Other,1. < HS Grad,2. Information,2. No,68.1119940653
+2003,42,2. Married,1. White,2. HS Grad,2. Information,1. Yes,85.383940379
+2007,50,2. Married,2. Black,4. College Grad,1. Industrial,2. No,117.1468169148
+2006,54,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,73.7757432747
+2007,40,2. Married,1. White,5. Advanced Degree,2. Information,1. Yes,140.3982001619
+2004,31,2. Married,1. White,2. HS Grad,2. Information,1. Yes,127.1157438122
+2006,27,2. Married,1. White,1. < HS Grad,2. Information,2. No,73.7757432747
+2009,47,4. Divorced,1. White,2. HS Grad,1. Industrial,1. Yes,90.4819133566
+2006,31,1. Never Married,1. White,2. HS Grad,1. Industrial,2. No,94.0727147457

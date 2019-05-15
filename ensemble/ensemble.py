@@ -18,6 +18,7 @@ def handle_empty_values(data_set):
     data_set['writing score'].replace(np.nan, calculate_mean(data_set['writing score']), inplace=True)
     data_set['reading score'].replace(np.nan, calculate_mean(data_set['reading score']), inplace=True)
     data_set['math score'].replace(np.nan, calculate_mean(data_set['math score']), inplace=True)
+    
 
 def create_validation_set(data):
     validation_data = data[:round(len(data)/5)] # training:validation 80:20 
@@ -32,18 +33,13 @@ def main():
     train_set = pd.read_csv(train_set_path)
     test_set = pd.read_csv(test_set_path)
 
-    # print(100*len(list(filter(lambda x: x == 0, train_set['race'])))/len(train_set['race']))
-    # print(100*len(list(filter(lambda x: x == 1, train_set['race'])))/len(train_set['race']))
-    # print(100*len(list(filter(lambda x: x == 2, train_set['race'])))/len(train_set['race']))
-    # print(100*len(list(filter(lambda x: x == 3, train_set['race'])))/len(train_set['race']))
-    # print(100*len(list(filter(lambda x: x == 4, train_set['race'])))/len(train_set['race']))
-
     # split data to training and validation set
     train_set, validation_set = create_validation_set(train_set)
     
     # handle empty values
     handle_empty_values(train_set)
     handle_empty_values(validation_set)
+    handle_empty_values(test_set)
 
     # label encoding
     le = preprocessing.LabelEncoder()
@@ -64,9 +60,6 @@ def main():
     test_set['test preparation course'] = le.transform(test_set['test preparation course'])
     validation_set['test preparation course'] = le.transform(validation_set['test preparation course'])
 
-    # print(train_set)
-    print(test_set)
-
     label_list = list(train_set.columns)
     label_list.remove('race')
     train_X = train_set[label_list]
@@ -81,7 +74,7 @@ def main():
     y_pred = clf.predict(test_X)
     
     print('val:', f1_score(validation_set['race'], y_pred_val, average='micro'))
-    print('test:', f1_score(test_set['race'], y_pred, average='micro'))
+    print(f1_score(test_set['race'], y_pred, average='micro'))
 
 
 if __name__ == "__main__":
