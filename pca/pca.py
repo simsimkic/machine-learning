@@ -22,9 +22,9 @@ def calculate_mean(data):
 
 def handle_empty_values(data_set):
     # replaces missing values with mean
-    data_set['year'].replace(np.nan, calculate_mean(data_set['year']), inplace=True)
     data_set['age'].replace(np.nan, calculate_mean(data_set['age']), inplace=True)
     data_set['wage'].replace(np.nan, calculate_mean(data_set['wage']), inplace=True)
+    data_set['year'].replace(np.nan, calculate_mean(data_set['year']), inplace=True)
 
     # replace missing values with most frequent value
     data_set['maritl'].replace(np.nan, data_set['maritl'].mode().values[0], inplace=True)
@@ -75,27 +75,26 @@ def main():
     train_set, test_set, validation_set = label_encoding(train_set, test_set, validation_set)
 
     label_list = list(train_set.columns)
-    label_list.remove('wage')
+    label_list.remove('education')
     train_X = train_set[label_list]
     validation_X = validation_set[label_list]
     test_X = test_set[label_list]
 
     # pca
-    pca = PCA(n_components=5)
+    pca = PCA(n_components=5, whiten=True)
     train_X = pca.fit_transform(train_X)
     validation_X = pca.transform(validation_X)
     test_X = pca.transform(test_X)
 
     # classification
-    le = preprocessing.LabelEncoder()
     clf = RandomForestClassifier(n_estimators=100, max_depth=3, random_state=0)
-    clf.fit(train_X, le.fit_transform(train_set['wage']))
+    clf.fit(train_X, train_set['education'])
     y_pred_val = clf.predict(validation_X)
     y_pred = clf.predict(test_X)
 
     # score
-    print('val:', f1_score(le.fit_transform(validation_set['wage']), y_pred_val, average='micro'))
-    print(f1_score(le.fit_transform(test_set['wage']), y_pred, average='micro'))
+    # print('val:', f1_score(validation_set['education'], y_pred_val, average='micro'))
+    print(f1_score(test_set['education'], y_pred, average='micro'))
 
 if __name__ == "__main__":
     main()
